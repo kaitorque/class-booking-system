@@ -14,4 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'LoginController@login')->name('login');
+Route::get('/stud_dashboard', 'MainController@stud_dashboard')->name('stud_dashboard');
 Route::get('/blank', 'MainController@blank')->name('blank');

@@ -133,15 +133,14 @@ License: You must have a valid license purchased only from themeforest(the above
 		<!--begin::Copyright-->
 		<div class="text-dark order-2 order-md-1">
 			<span class="text-muted font-weight-bold mr-2">2020&copy;</span>
-			<a href="http://keenthemes.com/metronic" target="_blank" class="text-dark-75 text-hover-primary">Keenthemes</a>
+			<a href="http://keenthemes.com/metronic" target="_blank" class="text-dark-75 text-hover-primary">Clazzy</a>
 		</div>
 		<!--end::Copyright-->
 
 		<!--begin::Nav-->
 		<div class="nav nav-dark order-1 order-md-2">
 			<a href="http://keenthemes.com/metronic" target="_blank" class="nav-link pr-3 pl-0">About</a>
-			<a href="http://keenthemes.com/metronic" target="_blank" class="nav-link px-3">Team</a>
-			<a href="http://keenthemes.com/metronic" target="_blank" class="nav-link pl-3 pr-0">Contact</a>
+			<a href="http://keenthemes.com/metronic" target="_blank" class="nav-link px-3">FAQ</a>
 		</div>
 		<!--end::Nav-->
 	</div>
@@ -198,141 +197,11 @@ License: You must have a valid license purchased only from themeforest(the above
 			<!--end::Desktop Search-->
 
             <!--begin::Dropdown-->
-            <div class="dropdown dropdown-inline" data-toggle="tooltip" title="Quick actions" data-placement="left">
-                <a href="#" class="btn btn-icon btn-light-info ml-3 h-40px w-40px flex-shrink-0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <span class="svg-icon svg-icon-lg"><!--begin::Svg Icon | path:assets/media/svg/icons/Media/Equalizer.svg--><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect x="0" y="0" width="24" height="24"/>
-        <rect fill="#000000" opacity="0.3" x="13" y="4" width="3" height="16" rx="1.5"/>
-        <rect fill="#000000" x="8" y="9" width="3" height="11" rx="1.5"/>
-        <rect fill="#000000" x="18" y="11" width="3" height="9" rx="1.5"/>
-        <rect fill="#000000" x="3" y="13" width="3" height="7" rx="1.5"/>
-    </g>
-</svg><!--end::Svg Icon--></span>                </a>
-                <div class="dropdown-menu dropdown-menu-md dropdown-menu-right p-0">
-                    <!--begin::Navigation-->
-<ul class="navi navi-hover py-5">
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-icon"><i class="flaticon2-drop"></i></span>
-            <span class="navi-text">New Group</span>
-        </a>
-    </li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-icon"><i class="flaticon2-list-3"></i></span>
-            <span class="navi-text">Contacts</span>
-        </a>
-    </li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-icon"><i class="flaticon2-rocket-1"></i></span>
-            <span class="navi-text">Groups</span>
-            <span class="navi-link-badge">
-                <span class="label label-light-primary label-inline font-weight-bold">new</span>
-            </span>
-        </a>
-    </li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-icon"><i class="flaticon2-bell-2"></i></span>
-            <span class="navi-text">Calls</span>
-        </a>
-    </li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-icon"><i class="flaticon2-gear"></i></span>
-            <span class="navi-text">Settings</span>
-        </a>
-    </li>
-
-    <li class="navi-separator my-3"></li>
-
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-icon"><i class="flaticon2-magnifier-tool"></i></span>
-            <span class="navi-text">Help</span>
-        </a>
-    </li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-icon"><i class="flaticon2-bell-2"></i></span>
-            <span class="navi-text">Privacy</span>
-            <span class="navi-link-badge">
-                <span class="label label-light-danger label-rounded font-weight-bold">5</span>
-            </span>
-        </a>
-    </li>
-</ul>
-<!--end::Navigation-->
-                </div>
-            </div>
+         
             <!--end::Dropdown-->
 
             <!--begin::Dropdown-->
-            <div class="dropdown dropdown-inline" data-toggle="tooltip" title="More links" data-placement="left">
-                <a href="#" class="btn btn-icon btn-light-danger ml-3 h-40px w-40px flex-shrink-0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <span class="svg-icon svg-icon-lg"><!--begin::Svg Icon | path:assets/media/svg/icons/Layout/Layout-vertical.svg--><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect x="0" y="0" width="24" height="24"/>
-        <rect fill="#000000" x="5" y="4" width="6" height="16" rx="1.5"/>
-        <rect fill="#000000" opacity="0.3" x="13" y="4" width="6" height="16" rx="1.5"/>
-    </g>
-</svg><!--end::Svg Icon--></span>                </a>
-                <div class="dropdown-menu dropdown-menu-md dropdown-menu-right p-0">
-                    <!--begin::Navigation-->
-<ul class="navi navi-hover">
-    <li class="navi-header font-weight-bold py-4">
-        <span class="font-size-lg">Choose Label:</span>
-        <i class="flaticon2-information icon-md text-muted" data-toggle="tooltip" data-placement="right" title="Click to learn more..."></i>
-    </li>
-    <li class="navi-separator mb-3 opacity-70"></li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-text">
-                <span class="label label-xl label-inline label-light-success">Customer</span>
-            </span>
-        </a>
-    </li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-text">
-                <span class="label label-xl label-inline label-light-danger">Partner</span>
-            </span>
-        </a>
-    </li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-text">
-                <span class="label label-xl label-inline label-light-warning">Suplier</span>
-            </span>
-        </a>
-    </li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-text">
-                <span class="label label-xl label-inline label-light-primary">Member</span>
-            </span>
-        </a>
-    </li>
-    <li class="navi-item">
-        <a href="#" class="navi-link">
-            <span class="navi-text">
-                <span class="label label-xl label-inline label-light-dark">Staff</span>
-            </span>
-        </a>
-    </li>
-    <li class="navi-separator mt-3 opacity-70"></li>
-    <li class="navi-footer py-4">
-        <a class="btn btn-clean font-weight-bold btn-sm" href="#">
-            <i class="ki ki-plus icon-sm"></i>
-            Add new
-        </a>
-    </li>
-</ul>
-<!--end::Navigation-->
-                </div>
-            </div>
+          
             <!--end::Dropdown-->
         </div>
         <!--end::Toolbar-->

@@ -11,4 +11,10 @@ class MainController extends Controller
     {
       return view('blank');
     }
+
+    public function stud_dashboard()
+    {
+      return view('stud_dashboard');
+    }
 }
+
