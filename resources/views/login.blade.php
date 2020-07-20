@@ -112,7 +112,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
                     <!--begin::Action-->
                     <div class="pb-lg-0 pb-5">
-                        <button type="button" id="kt_login_signin_submit" class="btn btn-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mr-3">Sign In</button>
+                        <a href="{{route('blank')}}" type="button" class="btn btn-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mr-3">Sign In</a>
 
                         <button type="button" class="btn btn-light-primary font-weight-bolder px-8 py-4 my-3 font-size-lg">
                             <span class="svg-icon svg-icon-md"><!--begin::Svg Icon | path:{{asset('assets/media/svg/social-icons/google.svg')}}--><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
