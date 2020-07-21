@@ -95,7 +95,15 @@
             <!--begin: Item-->
 
             <!--end: Item-->
-
+            <div class="d-flex align-items-center flex-lg-fill mr-5 my-1">
+                <span class="mr-4">
+                    <i class="fa fa-users"></i>
+                </span>
+                <div class="d-flex flex-column text-dark-75">
+                    <span class="font-weight-bolder font-size-sm">Price</span>
+                    <span class="font-weight-bolder font-size-h5">RM 30</span>
+                </div>
+            </div>
             <!--begin: Item-->
             <div class="d-flex align-items-center flex-lg-fill mr-5 my-1">
                 <span class="mr-4">

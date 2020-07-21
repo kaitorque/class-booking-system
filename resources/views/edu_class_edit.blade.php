@@ -54,6 +54,14 @@
 						<input type="email" class="form-control"  placeholder="Enter description"/>
 					</div>
           <div class="form-group">
+						<label>Price(RM)</label>
+						<input type="email" class="form-control"  placeholder="Enter price"/>
+					</div>
+          <div class="form-group">
+						<label>Level</label>
+						<input type="email" class="form-control"  placeholder="Enter level"/>
+					</div>
+          <div class="form-group">
 						<label>Date</label>
             <div class="col-lg-4 col-md-9 col-sm-12">
 							<div class id="kt_datepicker_6"></div>
