@@ -44,7 +44,7 @@
                         <!--end::Contacts-->
                     </div>
                     <div class="my-lg-0 my-1">
-                        <a href="#" class="btn btn-sm btn-info font-weight-bolder text-uppercase">Add To Cart</a>
+                        <a href="{{route('stud_cart')}}" class="btn btn-sm btn-info font-weight-bolder text-uppercase">Add To Cart</a>
                     </div>
                 </div>
                 <!--end: Title-->
