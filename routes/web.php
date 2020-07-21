@@ -21,7 +21,7 @@ Route::get('/edu-dashboard', 'EducatorController@edu_dashboard')->name('edu_dash
 
 
 
-
+#Student
 Route::get('/stud-dashboard', 'StudentController@stud_dashboard')->name('stud_dashboard');
 
 
