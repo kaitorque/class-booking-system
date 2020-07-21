@@ -26,5 +26,7 @@ Route::get('/edu-profile-edit', 'EducatorController@edu_profile_edit')->name('ed
 #Student
 Route::get('/stud-dashboard', 'StudentController@stud_dashboard')->name('stud_dashboard');
 Route::get('/stud-class-list', 'StudentController@stud_class_list')->name('stud_class_list');
+Route::get('/stud-profile-edit', 'StudentController@stud_profile_edit')->name('stud_profile_edit');
+
 
 Route::get('/blank', 'MainController@blank')->name('blank');

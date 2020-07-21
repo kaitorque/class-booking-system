@@ -17,4 +17,9 @@ class StudentController extends Controller
     {
       return view('stud_class_list');
     }
+
+    public function stud_profile_edit()
+    {
+      return view('stud_profile_edit');
+    }
 }

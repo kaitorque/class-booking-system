@@ -57,7 +57,13 @@
 		<!--begin::Nav-->
 		<div class="navi navi-spacer-x-0 p-0">
 		    <!--begin::Item-->
-		    <a href="{{route('edu_profile_edit')}}" class="navi-item">
+			<a @if(Session::get('loginas') == 'stud')
+				href="{{route('stud_profile_edit')}}"
+				@endif
+				@if(Session::get('loginas') == 'edu')
+				href="{{route('edu_profile_edit')}}"
+				@endif   class="navi-item">
+
 		        <div class="navi-link">
 		            <div class="symbol symbol-40 bg-light mr-3">
 		                <div class="symbol-label">
