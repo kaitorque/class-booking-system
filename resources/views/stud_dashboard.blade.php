@@ -89,17 +89,16 @@
             <div class="table-responsive">
                 <table class="table table-head-custom table-head-bg table-borderless table-vertical-center">
                     <thead>
-                        <tr class="text-left text-uppercase">
-                            <th style="min-width: 250px" class="pl-7"><span class="text-dark-75">Class Picture</span></th>
+                        <tr style="text-align: center" class=" text-uppercase">
+                            <th style="min-width: 180px" class="pl-7"><span class="text-dark-75">Class Picture</span></th>
                             <th style="min-width: 100px">Title</th>
-                            <th style="min-width: 100px">Price</th>
                             <th style="min-width: 100px">Educator</th>
-                            <th style="min-width: 130px">Rating</th>
+                            <th style="min-width: 100px">Date</th>
                             <th style="min-width: 80px"></th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
+                        <tr style="text-align: center" >
                             <td class="pl-0 py-1">
                                 <div class="d-flex justify-content-center">
                                     <div class="symbol symbol-100 symbol-light mr-4">
@@ -111,39 +110,33 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $8,000,000
+                                    CTF Workshop
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    In Proccess
+                                    Linux
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $520
+                                Muthu Saravamanan
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Paid
+                                    Ethical Hacker
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    Intertico
+                                    24 July
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Web, UI/UX Design
-                                </span>
-                            </td>
-                            <td>
-                                <img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"/>
-                                <span class="text-muted font-weight-bold d-block font-size-sm">
-                                    Best Rated
+                                8:00pm-10:00pm
                                 </span>
                             </td>
                             <td class="pr-0 text-right">
                                 <a href="#" class="btn btn-light-success font-weight-bolder font-size-sm">View Details</a>
                             </td>
                         </tr>
-                        <tr>
+                        <tr style="text-align: center" >
                             <td class="pl-0 py-1">
                                 <div class="d-flex justify-content-center">
                                     <div class="symbol symbol-100 symbol-light mr-4">
@@ -156,39 +149,33 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $23,000,000
+                                    Web Scrapping & Automation
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Pending
+                                    Python
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $1,600
+                                Haziq Aiman
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Rejected
+                                    Python Developer
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    Agoda
+                                    25 July
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Houses & Hotels
-                                </span>
-                            </td>
-                            <td>
-                                <img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"/>
-                                <span class="text-muted font-weight-bold d-block font-size-sm">
-                                    Above Avarage
+                                8:00pm-10:00pm
                                 </span>
                             </td>
                             <td class="pr-0 text-right">
                                 <a href="#" class="btn btn-light-success font-weight-bolder font-size-sm">View Details</a>
                             </td>
                         </tr>
-                        <tr>
+                        <tr style="text-align: center" >
                             <td class="pl-0 py-1">
                                 <div class="d-flex justify-content-center">
                                     <div class="symbol symbol-100 symbol-light mr-4">
@@ -201,39 +188,33 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $34,000,000
+                                    Web Scraping
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Paid
+                                    Python
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $6,700
+                                Lim Jing
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Paid
+                                    Data Analyst
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    RoadGee
+                                    28 July
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Paid
-                                </span>
-                            </td>
-                            <td>
-                                <img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"/>
-                                <span class="text-muted font-weight-bold d-block font-size-sm">
-                                    Best Rated
+                                8:00pm-10:00pm
                                 </span>
                             </td>
                             <td class="pr-0 text-right">
                                 <a href="#" class="btn btn-light-success font-weight-bolder font-size-sm">View Details</a>
                             </td>
                         </tr>
-                        <tr>
+                        <tr style="text-align: center" >
                             <td class="pl-0 py-0 ">
                                 <div class="d-flex justify-content-center">
                                     <div class="symbol symbol-100 symbol-light mr-4">
@@ -244,34 +225,28 @@
 
                                 </div>
                             </td>
-                            <td class="text-left pr-0">
+                            <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $2,600,000
+                                    Website Workshop
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Paid
+                                    Bootstrap
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $14,000
+                                Abu Sayid
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Pending
+                                    Freelance
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    The Hill
+                                    30 July
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Insurance
-                                </span>
-                            </td>
-                            <td>
-                                <img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem" alt=""/>
-                                <span class="text-muted font-weight-bold d-block font-size-sm">
-                                    Avarage
+                                8:00pm-10:00pm
                                 </span>
                             </td>
                             <td class="pr-0 text-right">
@@ -310,17 +285,16 @@
             <div class="table-responsive">
                 <table class="table table-head-custom table-head-bg table-borderless table-vertical-center">
                     <thead>
-                        <tr class="text-left text-uppercase">
-                            <th style="min-width: 250px" class="pl-7"><span class="text-dark-75">Class Picture</span></th>
+                        <tr style="text-align: center"class="text-uppercase">
+                            <th style="min-width: 180px" class="pl-7"><span class="text-dark-75">Class Picture</span></th>
                             <th style="min-width: 100px">Title</th>
-                            <th style="min-width: 100px">Price</th>
                             <th style="min-width: 100px">Educator</th>
-                            <th style="min-width: 130px">Rating</th>
+                            <th style="min-width: 100px">Date</th>
                             <th style="min-width: 80px"></th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
+                        <tr style="text-align: center" >
                             <td class="pl-0 py-1">
                                 <div class="d-flex justify-content-center">
                                     <div class="symbol symbol-100 symbol-light mr-4">
@@ -333,39 +307,33 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $8,000,000
+                                    CTF Workshop
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    In Proccess
+                                    Linux
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $520
+                                Muthu Saravamanan
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Paid
+                                    Ethical Hacker
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    Intertico
+                                    24 July
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Web, UI/UX Design
-                                </span>
-                            </td>
-                            <td>
-                                <img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"/>
-                                <span class="text-muted font-weight-bold d-block font-size-sm">
-                                    Best Rated
+                                8:00pm-10:00pm
                                 </span>
                             </td>
                             <td class="pr-0 text-right">
                                 <a href="#" class="btn btn-light-success font-weight-bolder font-size-sm">View Details</a>
                             </td>
                         </tr>
-                        <tr>
+                        <tr style="text-align: center" >
                             <td class="pl-0 py-0">
                                 <div class="d-flex justify-content-center">
                                     <div class="symbol symbol-100 symbol-light mr-4">
@@ -378,39 +346,33 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $23,000,000
+                                    CTF Workshop
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Pending
+                                    Linux
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $1,600
+                                Muthu Saravamanan
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Rejected
+                                    Ethical Hacker
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    Agoda
+                                    24 July
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Houses & Hotels
-                                </span>
-                            </td>
-                            <td>
-                                <img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"/>
-                                <span class="text-muted font-weight-bold d-block font-size-sm">
-                                    Above Avarage
+                                8:00pm-10:00pm
                                 </span>
                             </td>
                             <td class="pr-0 text-right">
                                 <a href="#" class="btn btn-light-success font-weight-bolder font-size-sm">View Details</a>
                             </td>
                         </tr>
-                        <tr>
+                        <tr style="text-align: center" >
                             <td class="pl-0 py-1">
                                 <div class="d-flex justify-content-center">
                                     <div class="symbol symbol-100 symbol-light mr-4">
@@ -423,32 +385,26 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $34,000,000
+                                    CTF Workshop
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Paid
+                                    Linux
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    $6,700
+                                Muthu Saravamanan
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Paid
+                                    Ethical Hacker
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    RoadGee
+                                    24 July
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Paid
-                                </span>
-                            </td>
-                            <td>
-                                <img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"/>
-                                <span class="text-muted font-weight-bold d-block font-size-sm">
-                                    Best Rated
+                                8:00pm-10:00pm
                                 </span>
                             </td>
                             <td class="pr-0 text-right">
@@ -469,7 +425,183 @@
 <!-- begin: PAST CLASS -->
 @endsection
 @section('sidebar')
+<style>
+.full-height {
+  height: 100%;
+  background: yellow;
+}
+</style>
+<div class="row mt-0 mt-lg-16 ">
+  <div class="col-xl-16 ">
+    <div class="col-xl-16 px-0 ">
+      <div class="card card-custom card-stretch gutter-b">
+          <!--begin::Header-->
+          <div class="card-header border-0">
+              <h3 class="card-title font-weight-bolder text-dark">Promoted</h3>
+          </div>
+          <!--end::Header-->
 
+          <!--begin::Body-->
+          <div class="card-body pt-2">
+              <!--begin::Item-->
+              <div class="d-flex flex-wrap align-items-center mb-10">
+                  <!--begin::Symbol-->
+                  <div class="symbol symbol-60 symbol-2by3 flex-shrink-0 mr-4">
+                      <div class="symbol-label" style="background-image: url('{{asset('assets/media/class/9.png')}}')"></div>
+                      <span class="label label label-light-warning label-rounded font-weight-bolder position-absolute top-0 right-0 mt-0"><i class="fa fa-star"></i></span>
+                  </div>
+                  <!--end::Symbol-->
+
+                  <!--begin::Title-->
+                  <div class="d-flex flex-column flex-grow-1 my-lg-0 my-2 pr-3">
+                      <a href="#" class="text-dark-75 font-weight-bolder text-hover-primary font-size-lg">
+                          Entrepreneurship
+                      </a>
+                      <span class="text-muted font-weight-bold font-size-sm my-1">
+                          How to create a business
+                      </span>
+                      <span class="text-muted font-weight-bold font-size-sm">
+                          Educator: <a href="" class="text-primary font-weight-bold">Sakina Crossley</a>
+                      </span>
+                  </div>
+                  <!--end::Title-->
+              </div>
+              <!--end::Item-->
+              <!--begin::Item-->
+              <div class="d-flex flex-wrap align-items-center mb-10">
+                  <!--begin::Symbol-->
+                  <div class="symbol symbol-60 symbol-2by3 flex-shrink-0 mr-4">
+                      <div class="symbol-label" style="background-image: url('{{asset('assets/media/class/1.jpg')}}')"></div>
+                      <span class="label label label-light-warning label-rounded font-weight-bolder position-absolute top-0 right-0 mt-0"><i class="fa fa-star"></i></span>
+                  </div>
+                  <!--end::Symbol-->
+
+                  <!--begin::Title-->
+                  <div class="d-flex flex-column flex-grow-1 my-lg-0 my-2 pr-3">
+                      <a href="#" class="text-dark-75 font-weight-bolder text-hover-primary font-size-lg">
+                          OOP in Java
+                      </a>
+                      <span class="text-muted font-weight-bold font-size-sm my-1">
+                          Beginner friendly
+                      </span>
+                      <span class="text-muted font-weight-bold font-size-sm">
+                          Educator: <a href="" class="text-primary font-weight-bold">Roza Wheeler</a>
+                      </span>
+                  </div>
+                  <!--end::Title-->
+              </div>
+              <!--end::Item-->
+          </div>
+          <!--end::Body-->
+      </div>
+    </div>
+    <div class="col-xl-12  px-0">
+      <div class="card card-custom card-stretch gutter-b">
+      <!--begin::Header-->
+      <div class="card-header border-0">
+          <h3 class="card-title font-weight-bolder text-dark">Top Educator</h3>
+          <div class="card-toolbar">
+
+          </div>
+      </div>
+      <!--end::Header-->
+
+        <!--begin::Body-->
+        <div class="card-body pt-2">
+            <!--begin::Item-->
+            <div class="d-flex align-items-center mb-10">
+                <!--begin::Symbol-->
+                <div class="symbol symbol-40 symbol-light-success mr-5">
+                    <span class="symbol-label">
+                        <img src="assets/media/svg/avatars/009-boy-4.svg" class="h-75 align-self-end" alt=""/>
+                    </span>
+                </div>
+                <!--end::Symbol-->
+
+                <!--begin::Text-->
+                <div class="d-flex flex-column flex-grow-1 font-weight-bold">
+                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Haziq Aiman</a>
+                    <span class="text-muted">Python Developer</span>
+                </div>
+                <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
+            </div>
+            <div class="d-flex align-items-center mb-10">
+                <!--begin::Symbol-->
+                <div class="symbol symbol-40 symbol-light-success mr-5">
+                    <span class="symbol-label">
+                        <img src="assets/media/svg/avatars/006-girl-3.svg" class="h-75 align-self-end" alt=""/>
+                    </span>
+                </div>
+                <!--end::Symbol-->
+
+                <!--begin::Text-->
+                <div class="d-flex flex-column flex-grow-1 font-weight-bold">
+                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Lim Jing</a>
+                    <span class="text-muted">Marketing Advisor</span>
+                </div>
+                <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
+            </div>
+            <div class="d-flex align-items-center mb-10">
+                <!--begin::Symbol-->
+                <div class="symbol symbol-40 symbol-light-success mr-5">
+                    <span class="symbol-label">
+                        <img src="assets/media/svg/avatars/011-boy-5.svg" class="h-75 align-self-end" alt=""/>
+                    </span>
+                </div>
+                <!--end::Symbol-->
+
+                <!--begin::Text-->
+                <div class="d-flex flex-column flex-grow-1 font-weight-bold">
+                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Pharrell Harmon</a>
+                    <span class="text-muted">Teacher</span>
+                </div>
+                <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
+            </div>
+            <div class="d-flex align-items-center mb-10">
+                <!--begin::Symbol-->
+                <div class="symbol symbol-40 symbol-light-success mr-5">
+                    <span class="symbol-label">
+                        <img src="assets/media/svg/avatars/015-boy-6.svg" class="h-75 align-self-end" alt=""/>
+                    </span>
+                </div>
+                <!--end::Symbol-->
+
+                <!--begin::Text-->
+                <div class="d-flex flex-column flex-grow-1 font-weight-bold">
+                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Christopher Parkes</a>
+                    <span class="text-muted">Youtuber</span>
+                </div>
+                <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
+            </div>
+            <div class="d-flex align-items-center mb-10">
+                <!--begin::Symbol-->
+                <div class="symbol symbol-40 symbol-light-success mr-5">
+                    <span class="symbol-label">
+                        <img src="assets/media/svg/avatars/016-boy-7.svg" class="h-75 align-self-end" alt=""/>
+                    </span>
+                </div>
+                <!--end::Symbol-->
+
+                <!--begin::Text-->
+                <div class="d-flex flex-column flex-grow-1 font-weight-bold">
+                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Theodore Fox</a>
+                    <span class="text-muted">Robotics</span>
+                </div>
+                <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
+            </div>
+              <!--end::Item-->
+          </div>
+          <!--end::Body-->
+      </div>
+    </div>
+
+
+  </div>
 @endsection
 
 @section('pageplugin')
