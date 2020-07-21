@@ -13,8 +13,8 @@
       </li>
       <li class="menu-item  @if(Session::get('pagetitle') == 'classfind')
       menu-item-active
-      @endif menu-item-submenu menu-item-rel"  data-menu-toggle="click" aria-haspopup="true">
-        <a  href="{{route('stud_class_find')}}" class="menu-link menu-toggle">
+      @endif menu-item-submenu menu-item-rel" aria-haspopup="true">
+        <a  href="{{route('stud_class_find')}}" class="menu-link">
           <span class="menu-text">Find Classes</span>
         </a>
       </li>
@@ -24,7 +24,6 @@
       menu-item-active
       @endif "  aria-haspopup="true">
       <li class="menu-item @if(Session::get('pagetitle') == 'dashboard') menu-item-active @endif "  aria-haspopup="true">
-
         <a href="{{route('edu_dashboard')}}" class="menu-link ">
           <span class="menu-text">Dashboard</span>
         </a>
@@ -32,7 +31,6 @@
       <li class="menu-item  @if(Session::get('pagetitle') == 'classfind')
       menu-item-active
       @endif menu-item-submenu menu-item-rel" aria-haspopup="true">
-        <a  href="javascript:;" class="menu-link menu-toggle">
       <li class="menu-item @if(Session::get('pagetitle') == 'findclass') menu-item-active   @endif" aria-haspopup="true">
         <a href="{{route('edu_class_find')}}" class="menu-link">
           <span class="menu-text">Find Classes</span>
