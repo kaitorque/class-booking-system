@@ -20,23 +20,17 @@
       </li>
       @endif
       @if(Session::get('loginas') == 'edu')
-<<<<<<< HEAD
-=======
       <li class="menu-item  @if(Session::get('pagetitle') == 'dashboard')
       menu-item-active
       @endif "  aria-haspopup="true">
->>>>>>> 3dc7da9bad2d1317308fbddaed63af3f9e638e88
       <li class="menu-item @if(Session::get('pagetitle') == 'dashboard') menu-item-active @endif "  aria-haspopup="true">
         <a href="{{route('edu_dashboard')}}" class="menu-link ">
           <span class="menu-text">Dashboard</span>
         </a>
       </li>
-<<<<<<< HEAD
-=======
       <li class="menu-item  @if(Session::get('pagetitle') == 'classfind')
       menu-item-active
       @endif menu-item-submenu menu-item-rel" aria-haspopup="true">
->>>>>>> 3dc7da9bad2d1317308fbddaed63af3f9e638e88
       <li class="menu-item @if(Session::get('pagetitle') == 'findclass') menu-item-active   @endif" aria-haspopup="true">
         <a href="{{route('edu_class_find')}}" class="menu-link">
           <span class="menu-text">Find Classes</span>
