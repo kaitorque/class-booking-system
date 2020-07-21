@@ -16,13 +16,13 @@
       </li>
       @endif
       @if(Session::get('loginas') == 'edu')
-      <li class="menu-item  menu-item-active "  aria-haspopup="true">
+      <li class="menu-item @if(Session::get('pagetitle') == 'dashboard') menu-item-active @endif "  aria-haspopup="true">
         <a href="{{route('edu_dashboard')}}" class="menu-link ">
           <span class="menu-text">Dashboard</span>
         </a>
       </li>
-      <li class="menu-item  menu-item-submenu menu-item-rel"  data-menu-toggle="click" aria-haspopup="true">
-        <a  href="javascript:;" class="menu-link menu-toggle">
+      <li class="menu-item @if(Session::get('pagetitle') == 'findclass') menu-item-active   @endif" aria-haspopup="true">
+        <a href="{{route('edu_class_find')}}" class="menu-link">
           <span class="menu-text">Find Classes</span>
         </a>
       </li>
