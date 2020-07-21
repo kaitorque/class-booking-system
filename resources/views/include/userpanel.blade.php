@@ -3,7 +3,7 @@
 	<div class="offcanvas-header d-flex align-items-center justify-content-between pb-5">
 		<h3 class="font-weight-bold m-0">
 			Student Profile
-			
+
 		</h3>
 		<a href="#" class="btn btn-xs btn-icon btn-light btn-hover-primary" id="kt_quick_user_close">
 			<i class="ki ki-close icon-xs text-muted"></i>
@@ -21,9 +21,14 @@
             </div>
             <div class="d-flex flex-column">
                 <a href="#" class="font-weight-bold font-size-h5 text-dark-75 text-hover-primary">
+					@if(Session::get('loginas') == 'stud')
 					Muhammad Haziq
+					@endif
+					@if(Session::get('loginas') == 'edu')
+					Idham Idris
+					@endif
 				</a>
-           
+
                 <div class="navi mt-2">
                     <a href="#" class="navi-item">
                         <span class="navi-link p-0 pb-2">
@@ -35,11 +40,11 @@
         <circle fill="#000000" opacity="0.3" cx="19.5" cy="17.5" r="2.5"/>
     </g>
 </svg><!--end::Svg Icon--></span>							</span>
-                            <span class="navi-text text-muted text-hover-primary">mhaziq@gmail.com</span>
+                            <span class="navi-text text-muted text-hover-primary">kaitorque@gmail.com</span>
                         </span>
                     </a>
 
-					<a href="#" class="btn btn-sm btn-light-primary font-weight-bolder py-2 px-5">Sign Out</a>
+					<a href="#" onclick="$('#logoutForm').submit(); return false;" class="btn btn-sm btn-light-primary font-weight-bolder py-2 px-5">Sign Out</a>
                 </div>
             </div>
         </div>
@@ -70,7 +75,6 @@
 		                </div>
 		                <div class="text-muted">
 		                    Account settings and more
-		                    <span class="label label-light-danger label-inline font-weight-bold">update</span>
 		                </div>
 		            </div>
 		        </div>
@@ -79,12 +83,17 @@
 
 		    <!--begin::Item-->
 		    <a href="custom/apps/user/profile-3.html"  class="navi-item">
-		        
+
 		    </a>
 		    <!--end:Item-->
 
 		    <!--begin::Item-->
-		    <a href="custom/apps/user/profile-2.html"  class="navi-item">
+		    <a @if(Session::get('loginas') == 'stud')
+				href="#"
+				@endif
+				@if(Session::get('loginas') == 'edu')
+				href="{{route('edu_class_list')}}"
+				@endif   class="navi-item">
 		        <div class="navi-link">
 					<div class="symbol symbol-40 bg-light mr-3">
 						<div class="symbol-label">
@@ -98,7 +107,7 @@
 				   	</div>
 		            <div class="navi-text">
 		                <div class="font-weight-bold">
-		                    My Class
+		                    MyClass
 		                </div>
 		                <div class="text-muted">
 		                    Current & Past Classes
@@ -108,7 +117,7 @@
 		    </a>
 		    <!--end:Item-->
 
-		   
+
 
 		<!--begin::Separator-->
 		<div class="separator separator-dashed my-7"></div>
@@ -117,23 +126,23 @@
 		<!--begin::Notifications-->
 		<div>
 			<!--begin:Heading-->
-        	
+
 			<!--end:Heading-->
 
 			<!--begin::Item-->
-	       
+
 	        <!--end::Item-->
 
 	        <!--begin::Item-->
-	     
+
 	        <!--end::Item-->
 
 	        <!--begin::Item-->
-	      
+
 	        <!--end::Item-->
 
 	        <!--begin::Item-->
-	   
+
 	        <!--end::Item-->
 		</div>
 		<!--end::Notifications-->
