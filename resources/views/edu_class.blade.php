@@ -97,7 +97,7 @@
             <!--end: Item-->
             <div class="d-flex align-items-center flex-lg-fill mr-5 my-1">
                 <span class="mr-4">
-                    <i class="fa fa-users"></i>
+                    <i class="fa fa-dollar-sign"></i>
                 </span>
                 <div class="d-flex flex-column text-dark-75">
                     <span class="font-weight-bolder font-size-sm">Price</span>
