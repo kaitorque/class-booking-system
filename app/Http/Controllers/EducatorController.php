@@ -26,4 +26,9 @@ class EducatorController extends Controller
     {
       return view('edu_class_edit');
     }
+
+    public function edu_profile_edit()
+    {
+      return view('edu_profile_edit');
+    }
 }
