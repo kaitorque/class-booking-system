@@ -16,7 +16,7 @@ License: You must have a valid license purchased only from themeforest(the above
     <!--begin::Head-->
     <head><base href="../../../">
         <meta charset="utf-8"/>
-        <title>Metronic | Login Page 1</title>
+        <title>Quantum Eduhub</title>
         <meta name="description" content="Login page example"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
@@ -50,26 +50,25 @@ License: You must have a valid license purchased only from themeforest(the above
 		<!--begin::Login-->
 <div class="login login-1 login-signin-on d-flex flex-column flex-lg-row flex-column-fluid bg-white" id="kt_login">
     <!--begin::Aside-->
-    <div class="login-aside d-flex flex-column flex-row-auto" style="background-color: #F2C98A;">
+    <div class="login-aside d-flex flex-column flex-row-auto" style="background-color: #05142B;">
         <!--begin::Aside Top-->
         <div class="d-flex flex-column-auto flex-column pt-lg-40 pt-15">
             <!--begin::Aside header-->
             <a href="#" class="text-center mb-10">
-				<img src="{{asset('assets/media/logos/logo-letter-1.png')}}" class="max-h-70px" alt=""/>
+				<img src="{{asset('assets/media/eduhub/Quantum Main Logo.png')}}" class="max-h-140px" alt=""/>
 			</a>
             <!--end::Aside header-->
 
             <!--begin::Aside title-->
             <h3 class="font-weight-bolder text-center font-size-h4 font-size-h1-lg" style="color: #986923;">
-                Discover Amazing Metronic<br/>
-                with great build tools
+                Curated hand picked online class <br> to develop your life & work skills
             </h3>
             <!--end::Aside title-->
         </div>
         <!--end::Aside Top-->
 
         <!--begin::Aside Bottom-->
-        <div class="aside-img d-flex flex-row-fluid bgi-no-repeat bgi-position-y-bottom bgi-position-x-center" style="background-image: url({{asset('assets/media/svg/illustrations/login-visual-1.svg')}})"></div>
+        <div class="aside-img d-flex flex-row-fluid bgi-no-repeat bgi-position-y-bottom bgi-position-x-center" style="background-image: url({{asset('assets/media/eduhub/presentation.png')}})"></div>
         <!--end::Aside Bottom-->
     </div>
     <!--begin::Aside-->
@@ -85,7 +84,7 @@ License: You must have a valid license purchased only from themeforest(the above
                     @csrf
                     <!--begin::Title-->
                     <div class="pb-13 pt-lg-0 pt-5">
-                        <h3 class="font-weight-bolder text-dark font-size-h4 font-size-h1-lg">Welcome to Metronic</h3>
+                        <h3 class="font-weight-bolder text-dark font-size-h4 font-size-h1-lg">Welcome to Quantum Eduhub</h3>
                         <span class="text-muted font-weight-bold font-size-h4">New Here? <a href="javascript:;" id="kt_login_signup" class="text-primary font-weight-bolder">Create an Account</a></span>
                     </div>
                     <!--begin::Title-->

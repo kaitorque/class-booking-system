@@ -9,11 +9,9 @@
 @section('toolbar')
 <div class="d-flex align-items-center py-3">
   <!--begin::Dropdown-->
-        <div class="dropdown dropdown-inline" data-toggle="tooltip" title="Quick actions" data-placement="left">
-            <a href="#" class="btn btn-dark font-weight-bold px-6" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Create
-            </a>
-        </div>
+    <a href="#" class="btn btn-dark font-weight-bold px-6" aria-haspopup="true" aria-expanded="false">
+        Create
+    </a>
   <!--end::Dropdown-->
 </div>
 @endsection

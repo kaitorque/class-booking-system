@@ -8,7 +8,7 @@
 @endsection
 @section('toolbar')
 <div class="d-flex align-items-center py-3">
-  <a href="#" class="btn btn-dark font-weight-bold px-6" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <a href="{{route('edu_class_edit')}}" class="btn btn-dark font-weight-bold px-6" aria-haspopup="true" aria-expanded="false">
       Create Class
   </a>
 </div>
@@ -37,7 +37,7 @@
 
                   <!--begin::Title-->
                   <div class="d-flex flex-column flex-grow-1 my-lg-0 my-2 pr-3">
-                      <a href="#" class="text-dark-75 font-weight-bolder text-hover-primary font-size-lg">
+                      <a href="{{route('edu_class')}}" class="text-dark-75 font-weight-bolder text-hover-primary font-size-lg">
                           Entrepreneurship
                       </a>
                       <span class="text-muted font-weight-bold font-size-sm my-1">
@@ -61,7 +61,7 @@
 
                   <!--begin::Title-->
                   <div class="d-flex flex-column flex-grow-1 my-lg-0 my-2 pr-3">
-                      <a href="#" class="text-dark-75 font-weight-bolder text-hover-primary font-size-lg">
+                      <a href="{{route('edu_class')}}" class="text-dark-75 font-weight-bolder text-hover-primary font-size-lg">
                           OOP in Java
                       </a>
                       <span class="text-muted font-weight-bold font-size-sm my-1">
@@ -103,7 +103,7 @@
 
                 <!--begin::Text-->
                 <div class="d-flex flex-column flex-grow-1 font-weight-bold">
-                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Uri Albert</a>
+                    <a href="{{route('edu_profile_edit')}}" class="text-dark text-hover-primary mb-1 font-size-lg">Uri Albert</a>
                     <span class="text-muted">Lead Developer</span>
                 </div>
                 <!--end::Text-->
@@ -120,7 +120,7 @@
 
                 <!--begin::Text-->
                 <div class="d-flex flex-column flex-grow-1 font-weight-bold">
-                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Floriana Korinna</a>
+                    <a href="{{route('edu_profile_edit')}}" class="text-dark text-hover-primary mb-1 font-size-lg">Floriana Korinna</a>
                     <span class="text-muted">Marketing Advisor</span>
                 </div>
                 <!--end::Text-->
@@ -137,7 +137,7 @@
 
                 <!--begin::Text-->
                 <div class="d-flex flex-column flex-grow-1 font-weight-bold">
-                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Pharrell Harmon</a>
+                    <a href="{{route('edu_profile_edit')}}" class="text-dark text-hover-primary mb-1 font-size-lg">Pharrell Harmon</a>
                     <span class="text-muted">Teacher</span>
                 </div>
                 <!--end::Text-->
@@ -154,7 +154,7 @@
 
                 <!--begin::Text-->
                 <div class="d-flex flex-column flex-grow-1 font-weight-bold">
-                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Christopher Parkes</a>
+                    <a href="{{route('edu_profile_edit')}}" class="text-dark text-hover-primary mb-1 font-size-lg">Christopher Parkes</a>
                     <span class="text-muted">Youtuber</span>
                 </div>
                 <!--end::Text-->
@@ -171,7 +171,7 @@
 
                 <!--begin::Text-->
                 <div class="d-flex flex-column flex-grow-1 font-weight-bold">
-                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Theodore Fox</a>
+                    <a href="{{route('edu_profile_edit')}}" class="text-dark text-hover-primary mb-1 font-size-lg">Theodore Fox</a>
                     <span class="text-muted">Robotics</span>
                 </div>
                 <!--end::Text-->
@@ -275,7 +275,7 @@
                             </div>
                         </div>
                         <!--end::Info-->
-                        <a href="#" class="btn btn-block btn-sm btn-light-success font-weight-bolder text-uppercase py-4">View</a>
+                        <a href="{{route('edu_class')}}" class="btn btn-block btn-sm btn-light-success font-weight-bolder text-uppercase py-4">View</a>
                     </div>
                     <!--end::Body-->
                 </div>
@@ -329,7 +329,7 @@
                             </div>
                         </div>
                         <!--end::Info-->
-                        <a href="#" class="btn btn-block btn-sm btn-light-success font-weight-bolder text-uppercase py-4">View</a>
+                        <a href="{{route('edu_class')}}" class="btn btn-block btn-sm btn-light-success font-weight-bolder text-uppercase py-4">View</a>
                     </div>
                     <!--end::Body-->
                 </div>
@@ -384,7 +384,7 @@
                             </div>
                         </div>
                         <!--end::Info-->
-                        <a href="#" class="btn btn-block btn-sm btn-light-success font-weight-bolder text-uppercase py-4">View</a>
+                        <a href="{{route('edu_class')}}" class="btn btn-block btn-sm btn-light-success font-weight-bolder text-uppercase py-4">View</a>
                     </div>
                     <!--end::Body-->
                 </div>
@@ -438,7 +438,7 @@
                             </div>
                         </div>
                         <!--end::Info-->
-                        <a href="#" class="btn btn-block btn-sm btn-light-success font-weight-bolder text-uppercase py-4">View</a>
+                        <a href="{{route('edu_class')}}" class="btn btn-block btn-sm btn-light-success font-weight-bolder text-uppercase py-4">View</a>
                     </div>
                     <!--end::Body-->
                 </div>
@@ -510,7 +510,7 @@
 
             <!--begin::Text-->
             <div class="d-flex flex-column font-weight-bold">
-                <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Laravel Introduction</a>
+                <a href="{{route('edu_class')}}" class="text-dark text-hover-primary mb-1 font-size-lg">Laravel Introduction</a>
                 <span class="text-muted">25 July 2020, 2:00pm-4:00pm Saturday</span>
             </div>
             <!--end::Text-->
@@ -529,7 +529,7 @@
 
             <!--begin::Text-->
             <div class="d-flex flex-column font-weight-bold">
-                <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Amazon Web Services</a>
+                <a href="{{route('edu_class')}}" class="text-dark text-hover-primary mb-1 font-size-lg">Amazon Web Services</a>
                 <span class="text-muted">27 July 2020, 9:00pm-11:00pm Monday</span>
             </div>
             <!--end::Text-->
@@ -548,7 +548,7 @@
 
             <!--begin::Text-->
             <div class="d-flex flex-column font-weight-bold">
-                <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Github Management</a>
+                <a href="{{route('edu_class')}}" class="text-dark text-hover-primary mb-1 font-size-lg">Github Management</a>
                 <span class="text-muted">29 July 2020, 9:00am-12:00am Wednesday</span>
             </div>
             <!--end::Text-->
@@ -581,7 +581,7 @@
 
             <!--begin::Text-->
             <div class="d-flex flex-column font-weight-bold">
-                <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">HTML5 Introduction</a>
+                <a href="{{route('edu_class')}}" class="text-dark text-hover-primary mb-1 font-size-lg">HTML5 Introduction</a>
                 <span class="text-muted">14 July 2020, 2:00pm-4:00pm Tuesday</span>
             </div>
             <!--end::Text-->
@@ -601,7 +601,7 @@
 
             <!--begin::Text-->
             <div class="d-flex flex-column font-weight-bold">
-                <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Webscraping 101</a>
+                <a href="{{route('edu_class')}}" class="text-dark text-hover-primary mb-1 font-size-lg">Webscraping 101</a>
                 <span class="text-muted">18 July 2020, 9:00am-11:00am Saturday</span>
             </div>
             <!--end::Text-->

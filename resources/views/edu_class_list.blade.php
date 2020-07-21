@@ -8,12 +8,9 @@
 @endsection
 @section('toolbar')
 <div class="d-flex align-items-center py-3">
-  <!--begin::Dropdown-->
-        <div class="dropdown dropdown-inline" data-toggle="tooltip" title="Quick actions" data-placement="left">
-            <a href="#" class="btn btn-dark font-weight-bold px-6" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Create Class
-            </a>
-        </div>
+    <a href="{{route('edu_class_edit')}}" class="btn btn-dark font-weight-bold px-6" aria-haspopup="true" aria-expanded="false">
+        Create Class
+    </a>
   <!--end::Dropdown-->
 </div>
 @endsection

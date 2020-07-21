@@ -9,11 +9,9 @@
 @section('toolbar')
 <div class="d-flex align-items-center py-3">
   <!--begin::Dropdown-->
-        <div class="dropdown dropdown-inline" data-toggle="tooltip" title="Quick actions" data-placement="left">
-            <a href="#" class="btn btn-dark font-weight-bold px-6" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Create Class
-            </a>
-        </div>
+      <a href="{{route('edu_class_edit')}}" class="btn btn-dark font-weight-bold px-6" aria-haspopup="true" aria-expanded="false">
+          Create Class
+      </a>
   <!--end::Dropdown-->
 </div>
 @endsection
@@ -48,7 +46,7 @@
                         <!--end::Contacts-->
                     </div>
                     <div class="my-lg-0 my-1">
-                        <a href="#" class="btn btn-sm btn-info font-weight-bolder text-uppercase">Edit</a>
+                        <a href="{{route('edu_class_edit')}}" class="btn btn-sm btn-info font-weight-bolder text-uppercase">Edit</a>
                     </div>
                 </div>
                 <!--end: Title-->
@@ -924,7 +922,7 @@
             <div>
                 <!--begin::Text-->
                 <p class="text-dark-75 font-size-lg font-weight-normal pt-5 mb-2">
-                    Aenean vitae nisl at mauris fermentum tempus ac a ex. Mauris dapibus tincidunt ex eu lobortis. 
+                    Aenean vitae nisl at mauris fermentum tempus ac a ex. Mauris dapibus tincidunt ex eu lobortis.
                 </p>
                 <!--end::Text-->
 

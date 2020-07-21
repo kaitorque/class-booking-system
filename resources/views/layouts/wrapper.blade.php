@@ -15,7 +15,7 @@ License: You must have a valid license purchased only from themeforest(the above
     <!--begin::Head-->
     <head><base href="">
         <meta charset="utf-8"/>
-        <title>Metronic | Dashboard</title>
+        <title>Quantum Eduhub</title>
         <meta name="description" content="Updates and statistics"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 
@@ -133,7 +133,7 @@ License: You must have a valid license purchased only from themeforest(the above
 		<!--begin::Copyright-->
 		<div class="text-dark order-2 order-md-1">
 			<span class="text-muted font-weight-bold mr-2">2020&copy;</span>
-			<a href="http://keenthemes.com/metronic" target="_blank" class="text-dark-75 text-hover-primary">Clazzy</a>
+			<a href="http://keenthemes.com/metronic" target="_blank" class="text-dark-75 text-hover-primary">Quantum EDU</a>
 		</div>
 		<!--end::Copyright-->
 
