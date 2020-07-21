@@ -89,7 +89,7 @@
 
 		    <!--begin::Item-->
 		    <a @if(Session::get('loginas') == 'stud')
-				href="#"
+				href="{{route('stud_class_list')}}"
 				@endif
 				@if(Session::get('loginas') == 'edu')
 				href="{{route('edu_class_list')}}"

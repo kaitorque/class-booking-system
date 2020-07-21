@@ -307,7 +307,7 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    CTF Workshop
+                                    Web Scraping Workshop
                                 </span>
                                 <span class="text-muted font-weight-bold">
                                     Linux
@@ -315,15 +315,15 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                Muthu Saravamanan
+                                Syed Ali
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Ethical Hacker
+                                    Freelance
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    24 July
+                                    24 June
                                 </span>
                                 <span class="text-muted font-weight-bold">
                                 8:00pm-10:00pm
@@ -346,23 +346,23 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    CTF Workshop
+                                    Build Windows Server
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Linux
+                                    Windows
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                Muthu Saravamanan
+                                Siti Maryam
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Ethical Hacker
+                                    Information Security
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    24 July
+                                    27 June
                                 </span>
                                 <span class="text-muted font-weight-bold">
                                 8:00pm-10:00pm
@@ -385,23 +385,23 @@
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    CTF Workshop
+                                    C++ Workshop
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Linux
+                                    C++
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                Muthu Saravamanan
+                                Sarveen Raaj
                                 </span>
                                 <span class="text-muted font-weight-bold">
-                                    Ethical Hacker
+                                    Developer
                                 </span>
                             </td>
                             <td>
                                 <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
-                                    24 July
+                                    29 June
                                 </span>
                                 <span class="text-muted font-weight-bold">
                                 8:00pm-10:00pm
@@ -425,24 +425,19 @@
 <!-- begin: PAST CLASS -->
 @endsection
 @section('sidebar')
-<style>
-.full-height {
-  height: 100%;
-  background: yellow;
-}
-</style>
-<div class="row mt-0 mt-lg-16 ">
-  <div class="col-xl-16 ">
-    <div class="col-xl-16 px-0 ">
-      <div class="card card-custom card-stretch gutter-b">
-          <!--begin::Header-->
-          <div class="card-header border-0">
-              <h3 class="card-title font-weight-bolder text-dark">Promoted</h3>
-          </div>
-          <!--end::Header-->
 
-          <!--begin::Body-->
-          <div class="card-body pt-2">
+<div class="card card-custom card-shadowless gutter-b bg-light">
+    <!--begin::Header-->
+    <div class="card-header border-0 pt-5">
+        <h3 class="card-title align-items-start flex-column">
+			<span class="card-label font-weight-bolder text-dark">Promoted</span>
+
+		</h3>
+    </div>
+    <!--end::Header-->
+
+    <!--begin::Body-->
+    <div class="card-body pt-2">
               <!--begin::Item-->
               <div class="d-flex flex-wrap align-items-center mb-10">
                   <!--begin::Symbol-->
@@ -492,22 +487,20 @@
               </div>
               <!--end::Item-->
           </div>
-          <!--end::Body-->
-      </div>
+    <!--end::Body-->
+</div>
+<div class="card card-custom card-shadowless gutter-b bg-light">
+    <!--begin::Header-->
+    <div class="card-header border-0 pt-5">
+        <h3 class="card-title align-items-start flex-column">
+			<span class="card-label font-weight-bolder text-dark">Top Educator</span>
+
+		</h3>
     </div>
-    <div class="col-xl-12  px-0">
-      <div class="card card-custom card-stretch gutter-b">
-      <!--begin::Header-->
-      <div class="card-header border-0">
-          <h3 class="card-title font-weight-bolder text-dark">Top Educator</h3>
-          <div class="card-toolbar">
+    <!--end::Header-->
 
-          </div>
-      </div>
-      <!--end::Header-->
-
-        <!--begin::Body-->
-        <div class="card-body pt-2">
+    <!--begin::Body-->
+    <div class="card-body pt-2">
             <!--begin::Item-->
             <div class="d-flex align-items-center mb-10">
                 <!--begin::Symbol-->
@@ -520,8 +513,8 @@
 
                 <!--begin::Text-->
                 <div class="d-flex flex-column flex-grow-1 font-weight-bold">
-                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Haziq Aiman</a>
-                    <span class="text-muted">Python Developer</span>
+                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Uri Albert</a>
+                    <span class="text-muted">Lead Developer</span>
                 </div>
                 <!--end::Text-->
                 <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
@@ -537,7 +530,7 @@
 
                 <!--begin::Text-->
                 <div class="d-flex flex-column flex-grow-1 font-weight-bold">
-                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Lim Jing</a>
+                    <a href="#" class="text-dark text-hover-primary mb-1 font-size-lg">Floriana Korinna</a>
                     <span class="text-muted">Marketing Advisor</span>
                 </div>
                 <!--end::Text-->
@@ -596,12 +589,8 @@
             </div>
               <!--end::Item-->
           </div>
-          <!--end::Body-->
-      </div>
-    </div>
-
-
-  </div>
+    <!--end::Body-->
+</div>
 @endsection
 
 @section('pageplugin')

@@ -12,4 +12,9 @@ class StudentController extends Controller
     {
       return view('stud_dashboard');
     }
+
+    public function stud_class_list()
+    {
+      return view('stud_class_list');
+    }
 }
