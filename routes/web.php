@@ -20,6 +20,7 @@ Route::post('/logout', 'LoginController@logout')->name('logout');
 Route::get('/edu-dashboard', 'EducatorController@edu_dashboard')->name('edu_dashboard');
 Route::get('/edu-class-list', 'EducatorController@edu_class_list')->name('edu_class_list');
 Route::get('/edu-class', 'EducatorController@edu_class')->name('edu_class');
+Route::get('/edu-class-edit', 'EducatorController@edu_class_edit')->name('edu_class_edit');
 
 #Student
 Route::get('/stud-dashboard', 'StudentController@stud_dashboard')->name('stud_dashboard');

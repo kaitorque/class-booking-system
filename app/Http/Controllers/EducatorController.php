@@ -21,4 +21,9 @@ class EducatorController extends Controller
     {
       return view('edu_class');
     }
+
+    public function edu_class_edit()
+    {
+      return view('edu_class_edit');
+    }
 }
