@@ -8,7 +8,7 @@
 @endsection
 @section('toolbar')
 <div class="d-flex align-items-center py-3">
-  <a href="#" class="btn btn-dark font-weight-bold px-6" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <a href="{{route('edu_class_edit')}}" class="btn btn-dark font-weight-bold px-6" aria-haspopup="true" aria-expanded="false">
       Create Class
   </a>
 </div>

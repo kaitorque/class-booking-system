@@ -19,6 +19,7 @@ Route::post('/logout', 'LoginController@logout')->name('logout');
 // Educator
 Route::get('/edu-dashboard', 'EducatorController@edu_dashboard')->name('edu_dashboard');
 Route::get('/edu-class-list', 'EducatorController@edu_class_list')->name('edu_class_list');
+Route::get('/edu-class-find', 'EducatorController@edu_class_find')->name('edu_class_find');
 Route::get('/edu-class', 'EducatorController@edu_class')->name('edu_class');
 Route::get('/edu-class-edit', 'EducatorController@edu_class_edit')->name('edu_class_edit');
 Route::get('/edu-profile-edit', 'EducatorController@edu_profile_edit')->name('edu_profile_edit');
