@@ -7,66 +7,13 @@
 <!-- Example: <style></style> -->
 @endsection
 @section('toolbar')
-<div class="d-flex justify-content-center py-3">
-  <!--begin::Dropdown-->
-        <div class="dropdown dropdown-inline" data-toggle="tooltip" title="Quick actions" data-placement="left">
 
-            <div class="dropdown-menu p-0 m-0 dropdown-menu-anim-up dropdown-menu-md dropdown-menu-right">
-                <!--begin::Navigation-->
-<ul class="navi navi-hover">
-<li class="navi-header font-weight-bold py-4">
-  <span class="font-size-lg">Choose Label:</span>
-  <i class="flaticon2-information icon-md text-muted" data-toggle="tooltip" data-placement="right" title="Click to learn more..."></i>
-</li>
-<li class="navi-separator mb-3 opacity-70"></li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-success">Customer</span>
-      </span>
+<div class="d-flex align-items-center py-3">
+  <a href="{{route('stud_cart')}}" class="btn btn-white font-weight-bold px-6" aria-haspopup="true" aria-expanded="false">
+  <svg xmlns="http://www.w3.org/2000/svg" width="30" height="24" viewBox="0 0 24 24"><path d="M10 19.5c0 .829-.672 1.5-1.5 1.5s-1.5-.671-1.5-1.5c0-.828.672-1.5 1.5-1.5s1.5.672 1.5 1.5zm3.5-1.5c-.828 0-1.5.671-1.5 1.5s.672 1.5 1.5 1.5 1.5-.671 1.5-1.5c0-.828-.672-1.5-1.5-1.5zm1.336-5l1.977-7h-16.813l2.938 7h11.898zm4.969-10l-3.432 12h-12.597l.839 2h13.239l3.474-12h1.929l.743-2h-4.195z"/></svg>
   </a>
-</li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-danger">Partner</span>
-      </span>
-  </a>
-</li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-warning">Suplier</span>
-      </span>
-  </a>
-</li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-primary">Member</span>
-      </span>
-  </a>
-</li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-dark">Staff</span>
-      </span>
-  </a>
-</li>
-<li class="navi-separator mt-3 opacity-70"></li>
-<li class="navi-footer py-4">
-  <a class="btn btn-clean font-weight-bold btn-sm" href="#">
-      <i class="ki ki-plus icon-sm"></i>
-      Add new
-  </a>
-</li>
-</ul>
-<!--end::Navigation-->
-            </div>
-        </div>
-  <!--end::Dropdown-->
 </div>
+
 @endsection
 @section('content')
 <!-- begin: CURRENT CLASS -->

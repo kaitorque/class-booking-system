@@ -27,6 +27,11 @@ Route::get('/edu-profile-edit', 'EducatorController@edu_profile_edit')->name('ed
 Route::get('/stud-dashboard', 'StudentController@stud_dashboard')->name('stud_dashboard');
 Route::get('/stud-class-list', 'StudentController@stud_class_list')->name('stud_class_list');
 Route::get('/stud-profile-edit', 'StudentController@stud_profile_edit')->name('stud_profile_edit');
-
+Route::get('/stud-class-find', 'StudentController@stud_class_find')->name('stud_class_find');
+Route::get('/stud-class-details1', 'StudentController@stud_class_details1')->name('stud_class_details1');
+Route::get('/stud-class-details2', 'StudentController@stud_class_details2')->name('stud_class_details2');
+Route::get('/stud-cart', 'StudentController@stud_cart')->name('stud_cart');
+Route::get('/stud-payment', 'StudentController@stud_payment')->name('stud_payment');
+Route::get('/stud-invoice', 'StudentController@stud_invoice')->name('stud_invoice');
 
 Route::get('/blank', 'MainController@blank')->name('blank');

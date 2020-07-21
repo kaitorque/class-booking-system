@@ -4,24 +4,32 @@
     <!--begin::Nav-->
     <ul class="menu-nav ">
       @if(Session::get('loginas') == 'stud')
-      <li class="menu-item  menu-item-active "  aria-haspopup="true">
-        <a  href="index.html" class="menu-link ">
+      <li class="menu-item   @if(Session::get('pagetitle') == 'dashboard')
+      menu-item-active
+      @endif"  aria-haspopup="true">
+        <a  href="{{route('stud_dashboard')}}" class="menu-link ">
           <span class="menu-text">Dashboard</span>
         </a>
       </li>
-      <li class="menu-item  menu-item-submenu menu-item-rel"  data-menu-toggle="click" aria-haspopup="true">
-        <a  href="javascript:;" class="menu-link menu-toggle">
+      <li class="menu-item  @if(Session::get('pagetitle') == 'classfind')
+      menu-item-active
+      @endif"menu-item-submenu menu-item-rel"  data-menu-toggle="click" aria-haspopup="true">
+        <a  href="{{route('stud_class_find')}}" class="menu-link menu-toggle">
           <span class="menu-text">Find Classes</span>
         </a>
       </li>
       @endif
       @if(Session::get('loginas') == 'edu')
-      <li class="menu-item  menu-item-active "  aria-haspopup="true">
+      <li class="menu-item  @if(Session::get('pagetitle') == 'dashboard')
+      menu-item-active
+      @endif "  aria-haspopup="true">
         <a href="{{route('edu_dashboard')}}" class="menu-link ">
           <span class="menu-text">Dashboard</span>
         </a>
       </li>
-      <li class="menu-item  menu-item-submenu menu-item-rel"  data-menu-toggle="click" aria-haspopup="true">
+      <li class="menu-item  @if(Session::get('pagetitle') == 'classfind')
+      menu-item-active
+      @endif menu-item-submenu menu-item-rel"  data-menu-toggle="click" aria-haspopup="true">
         <a  href="javascript:;" class="menu-link menu-toggle">
           <span class="menu-text">Find Classes</span>
         </a>
