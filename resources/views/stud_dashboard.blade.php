@@ -7,10 +7,10 @@
 <!-- Example: <style></style> -->
 @endsection
 @section('toolbar')
-<div class="d-flex align-items-center py-3">
+<div class="d-flex justify-content-center py-3">
   <!--begin::Dropdown-->
         <div class="dropdown dropdown-inline" data-toggle="tooltip" title="Quick actions" data-placement="left">
-         
+
             <div class="dropdown-menu p-0 m-0 dropdown-menu-anim-up dropdown-menu-md dropdown-menu-right">
                 <!--begin::Navigation-->
 <ul class="navi navi-hover">
@@ -78,7 +78,7 @@
             <span class="card-label font-weight-bolder text-dark">Current Class Going</span>
             <span class="text-muted mt-3 font-weight-bold font-size-sm">Tuesday, July 22 2020</span>
         </h3>
-      
+
     </div>
     <!--end::Header-->
 
@@ -100,13 +100,13 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td class="pl-0 py-8">
-                                <div class="d-flex align-items-center">
-                                    <div class="symbol symbol-50 symbol-light mr-4">
+                            <td class="pl-0 py-1">
+                                <div class="d-flex justify-content-center">
+                                    <div class="symbol symbol-100 symbol-light mr-4">
                                         <span class="symbol-label" style="padding-right:3px; padding-top: 3px; display:inline-block;">
-                                            <img src="assets\media\class\1.PNG" class="h-100 align-self-end" alt=""/>
+                                            <img src="assets\media\class\1.PNG" class="h-75 align-self-end" alt=""/>
                                         </span>
-                                    </div>          
+                                    </div>
                                 </div>
                             </td>
                             <td>
@@ -144,14 +144,14 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="pl-0 py-0">
-                                <div class="d-flex align-items-center">
-                                    <div class="symbol symbol-50 symbol-light mr-4">
+                            <td class="pl-0 py-1">
+                                <div class="d-flex justify-content-center">
+                                    <div class="symbol symbol-100 symbol-light mr-4">
                                         <span class="symbol-label">
                                             <img src="assets\media\class\2.PNG" class="h-75 align-self-end" alt=""/>
                                         </span>
                                     </div>
-                                 
+
                                 </div>
                             </td>
                             <td>
@@ -189,14 +189,14 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="pl-0 py-8">
-                                <div class="d-flex align-items-center">
-                                    <div class="symbol symbol-50 symbol-light mr-4">
+                            <td class="pl-0 py-1">
+                                <div class="d-flex justify-content-center">
+                                    <div class="symbol symbol-100 symbol-light mr-4">
                                         <span class="symbol-label">
                                             <img src="assets\media\class\3.PNG" class="h-75 align-self-end" alt=""/>
                                         </span>
                                     </div>
-                                   
+
                                 </div>
                             </td>
                             <td>
@@ -235,13 +235,13 @@
                         </tr>
                         <tr>
                             <td class="pl-0 py-0 ">
-                                <div class="d-flex align-items-center">
-                                    <div class="symbol symbol-50 symbol-light mr-4">
+                                <div class="d-flex justify-content-center">
+                                    <div class="symbol symbol-100 symbol-light mr-4">
                                         <span class="symbol-label">
                                             <img src="assets\media\class\4.PNG" class="h-75 align-self-end" alt=""/>
                                         </span>
                                     </div>
-                                  
+
                                 </div>
                             </td>
                             <td class="text-left pr-0">
@@ -286,7 +286,7 @@
     </div>
     <!--end::Body-->
 </div>
-    
+
 </div>
 <!-- begin: PAST CLASS -->
 <!-- ------------------------------------------------------------------- -->
@@ -299,7 +299,7 @@
             <span class="card-label font-weight-bolder text-dark">Past Classes</span>
             <span class="text-muted mt-3 font-weight-bold font-size-sm">Tuesday, July 22 2020</span>
         </h3>
-        
+
     </div>
     <!--end::Header-->
 
@@ -321,14 +321,14 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td class="pl-0 py-8">
-                                <div class="d-flex align-items-center">
-                                    <div class="symbol symbol-50 symbol-light mr-4">
+                            <td class="pl-0 py-1">
+                                <div class="d-flex justify-content-center">
+                                    <div class="symbol symbol-100 symbol-light mr-4">
                                         <span class="symbol-label">
                                             <img src="assets\media\class\5.PNG" class="h-75 align-self-end" alt=""/>
                                         </span>
                                     </div>
-                                  
+
                                 </div>
                             </td>
                             <td>
@@ -367,13 +367,13 @@
                         </tr>
                         <tr>
                             <td class="pl-0 py-0">
-                                <div class="d-flex align-items-center">
-                                    <div class="symbol symbol-50 symbol-light mr-4">
+                                <div class="d-flex justify-content-center">
+                                    <div class="symbol symbol-100 symbol-light mr-4">
                                         <span class="symbol-label">
                                             <img src="assets\media\class\6.PNG" class="h-75 align-self-end" alt=""/>
                                         </span>
                                     </div>
-                                  
+
                                 </div>
                             </td>
                             <td>
@@ -411,14 +411,14 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="pl-0 py-8">
-                                <div class="d-flex align-items-center">
-                                    <div class="symbol symbol-50 symbol-light mr-4">
+                            <td class="pl-0 py-1">
+                                <div class="d-flex justify-content-center">
+                                    <div class="symbol symbol-100 symbol-light mr-4">
                                         <span class="symbol-label">
                                             <img src="assets\media\class\7.PNG" class="h-75 align-self-end" alt=""/>
                                         </span>
                                     </div>
-                               
+
                                 </div>
                             </td>
                             <td>
@@ -455,7 +455,7 @@
                                 <a href="#" class="btn btn-light-success font-weight-bolder font-size-sm">View Details</a>
                             </td>
                         </tr>
-                      
+
                     </tbody>
                 </table>
             </div>
@@ -464,7 +464,7 @@
     </div>
     <!--end::Body-->
 </div>
-    
+
 </div>
 <!-- begin: PAST CLASS -->
 @endsection
