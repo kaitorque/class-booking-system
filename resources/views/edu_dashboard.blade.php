@@ -410,7 +410,7 @@
                             <!--end::Pic-->
                             <!--begin::Title-->
                             <div class="d-flex flex-column">
-                                <a href="#" class="text-dark font-weight-bold text-hover-primary font-size-h4 mb-0">Lavarel Introduction</a>
+                                <a href="#" class="text-dark font-weight-bold text-hover-primary font-size-h4 mb-0">Laravel Introduction</a>
                                 <span class="text-muted font-weight-bold">Freelance Developer</span>
                             </div>
                             <!--end::Title-->

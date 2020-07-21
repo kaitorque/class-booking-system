@@ -11,61 +11,8 @@
   <!--begin::Dropdown-->
         <div class="dropdown dropdown-inline" data-toggle="tooltip" title="Quick actions" data-placement="left">
             <a href="#" class="btn btn-dark font-weight-bold px-6" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Create
+                Create Class
             </a>
-            <div class="dropdown-menu p-0 m-0 dropdown-menu-anim-up dropdown-menu-md dropdown-menu-right">
-                <!--begin::Navigation-->
-<ul class="navi navi-hover">
-<li class="navi-header font-weight-bold py-4">
-  <span class="font-size-lg">Choose Label:</span>
-  <i class="flaticon2-information icon-md text-muted" data-toggle="tooltip" data-placement="right" title="Click to learn more..."></i>
-</li>
-<li class="navi-separator mb-3 opacity-70"></li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-success">Customer</span>
-      </span>
-  </a>
-</li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-danger">Partner</span>
-      </span>
-  </a>
-</li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-warning">Suplier</span>
-      </span>
-  </a>
-</li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-primary">Member</span>
-      </span>
-  </a>
-</li>
-<li class="navi-item">
-  <a href="#" class="navi-link">
-      <span class="navi-text">
-          <span class="label label-xl label-inline label-light-dark">Staff</span>
-      </span>
-  </a>
-</li>
-<li class="navi-separator mt-3 opacity-70"></li>
-<li class="navi-footer py-4">
-  <a class="btn btn-clean font-weight-bold btn-sm" href="#">
-      <i class="ki ki-plus icon-sm"></i>
-      Add new
-  </a>
-</li>
-</ul>
-<!--end::Navigation-->
-            </div>
         </div>
   <!--end::Dropdown-->
 </div>
@@ -473,7 +420,7 @@ $(document).ready(function(){
 					template: function(row) {
 						var status = {
 							1: {'status': 'Upcoming', 'class': ' label-light-primary'},
-							2: {'status': 'Canceled', 'class': ' label-light-danger'},
+							2: {'status': 'Cancelled', 'class': ' label-light-danger'},
 							3: {'status': 'Completed', 'class': ' label-light-success'},
               4: {'status': 'Archived', 'class': ' label-light-warning'},
 							5: {'status': 'Join', 'class': ' label-light-info'},
@@ -490,7 +437,7 @@ $(document).ready(function(){
 					autoHide: false,
 					template: function() {
 						return '\
-	                        <a href="javascript:;" class="btn btn-sm btn-default btn-text-primary btn-hover-primary btn-icon mr-2" title="Edit details">\
+	                        <a href="{{route('edu_class')}}" class="btn btn-sm btn-default btn-text-primary btn-hover-primary btn-icon mr-2" title="Edit details">\
 	                            <span class="svg-icon svg-icon-md">\
 									<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">\
 										<g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
