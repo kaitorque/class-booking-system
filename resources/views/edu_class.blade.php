@@ -786,7 +786,7 @@
                     <div class="d-flex flex-column flex-row-fluid">
                         <!--begin::Info-->
                         <div class="d-flex align-items-center flex-wrap">
-                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Aliff Hakim</a>
+                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Nurul Izzah Azhar</a>
                             <span class="text-muted font-weight-normal flex-grow-1 font-size-sm">1 Day ago</span>
                             <span class="text-muted font-weight-normal font-size-sm">Reply</span>
                         </div>
@@ -945,7 +945,7 @@
             <div>
                 <!--begin::Text-->
                 <p class="text-dark-75 font-size-lg font-weight-normal pt-5 mb-2">
-                  Sir Aliff is the best instructor.
+                  Miss Izzah is the best instructor.
                   <br>
                   I would like to see a new course in the future.
                   <br>
