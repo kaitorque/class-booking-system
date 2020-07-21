@@ -80,7 +80,7 @@
                                 </span>
                             </td>
                             <td class="pr-0 text-right">
-                                <a href="#" class="btn btn-light-success font-weight-bolder font-size-sm">View Details</a>
+                                <a href="{{route('stud_class_details2')}}" class="btn btn-light-success font-weight-bolder font-size-sm">View Details</a>
                             </td>
                         </tr>
                         <tr style="text-align: center" >
