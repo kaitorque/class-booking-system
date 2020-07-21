@@ -44,7 +44,14 @@
         <circle fill="#000000" opacity="0.3" cx="19.5" cy="17.5" r="2.5"/>
     </g>
 </svg><!--end::Svg Icon--></span>							</span>
-                            <span class="navi-text text-muted text-hover-primary">kaitorque@gmail.com</span>
+                            <span class="navi-text text-muted text-hover-primary">
+															@if(Session::get('loginas') == 'stud')
+															mhaziq@gmail.com
+															@endif
+															@if(Session::get('loginas') == 'edu')
+															kaitorque@gmail.com
+															@endif
+													</span>
                         </span>
                     </a>
 
