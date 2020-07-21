@@ -86,8 +86,8 @@
                             <tr class="font-weight-boldest font-size-lg">
                                 <td class="pl-0 pt-7">Laravel Introduction</td>
                                 <td class="text-right pt-7">3</td>
-                                <td class="text-right pt-7">RM40.00</td>
-                                <td class="text-danger pr-0 pt-7 text-right">RM120.00</td>
+                                <td class="text-right pt-7">RM30.00</td>
+                                <td class="text-danger pr-0 pt-7 text-right">RM90.00</td>
                             </tr>
                         </tbody>
                     </table>
@@ -120,7 +120,7 @@
                     </div>
                     <div class="d-flex flex-column text-md-right">
                         <span class="font-size-lg font-weight-bolder mb-1">TOTAL AMOUNT</span>
-                        <span class="font-size-h2 font-weight-boldest text-danger mb-1">RM120.00</span>
+                        <span class="font-size-h2 font-weight-boldest text-danger mb-1">RM90.00</span>
                         <span>Taxes Included</span>
                     </div>
                 </div>

@@ -41,6 +41,7 @@
                             <th style="min-width: 100px">Title</th>
                             <th style="min-width: 100px">Educator</th>
                             <th style="min-width: 100px">Date</th>
+                            <th style="min-width: 100px">Total</th>
                             <th style="min-width: 80px"></th>
                         </tr>
                     </thead>
@@ -79,6 +80,11 @@
                                 10:00am-1:00pm
                                 </span>
                             </td>
+                            <td>
+                                <span class="text-dark-75 font-weight-bolder d-block font-size-lg">
+                                    RM 90
+                                </span>
+                            </td>
                             <td class="pr-0 text-right">
                                 <a href="#" class="btn btn-light-success font-weight-bolder font-size-sm">View Details</a>
                             </td>
@@ -89,12 +95,19 @@
             <!--end::Table-->
         </div>
         <!-- begin: Invoice action-->
+       
         <div class="row justify-content-center py-8 px-8 py-md-10 px-md-0">
             <div class="col-md-9">
                 <div class="d-flex float-right">
                     <a class="btn btn-primary font-weight-bold" href="{{route('stud_payment')}}">Go Payment</a>
                 </div>
             </div>
+            
+            <div class="d-flex flex-column text-md-right">
+                        <span class="font-size-lg font-weight-bolder mb-1">TOTAL AMOUNT</span>
+                        <span class="font-size-h2 font-weight-boldest text-danger mb-1">RM90.00</span>
+                        <span>Taxes Included</span>
+                    </div>
         </div>
         <!-- end: Invoice action-->
     </div>
