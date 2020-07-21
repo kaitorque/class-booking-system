@@ -18,7 +18,7 @@ Route::post('/', 'LoginController@login_post')->name('login.post');
 Route::post('/logout', 'LoginController@logout')->name('logout');
 // Educator
 Route::get('/edu-dashboard', 'EducatorController@edu_dashboard')->name('edu_dashboard');
-
+Route::get('/edu-class-list', 'EducatorController@edu_class_list')->name('edu_class_list');
 
 
 
