@@ -82,6 +82,7 @@ License: You must have a valid license purchased only from themeforest(the above
             <div class="login-form login-signin">
                 <!--begin::Form-->
                 <form class="form" novalidate="novalidate" id="kt_login_signin_form">
+                    @csrf
                     <!--begin::Title-->
                     <div class="pb-13 pt-lg-0 pt-5">
                         <h3 class="font-weight-bolder text-dark font-size-h4 font-size-h1-lg">Welcome to Metronic</h3>
@@ -109,10 +110,25 @@ License: You must have a valid license purchased only from themeforest(the above
                         <input class="form-control form-control-solid h-auto py-7 px-6 rounded-lg" type="password" name="password" autocomplete="off"/>
                     </div>
                     <!--end::Form group-->
+                    <div class="form-group">
+                        <label class="font-size-h6 font-weight-bolder text-dark">Login as</label>
+                        <div class="radio-inline h-auto py-4 px-6">
+                            <label class="radio radio-lg">
+                                <input type="radio" checked="checked" value="stud" name="loginas"/>
+                                <span></span>
+                                Student
+                            </label>
+                            <label class="radio radio-lg">
+                                <input type="radio" value="edu" name="loginas"/>
+                                <span></span>
+                                Educator
+                            </label>
+                        </div>
+                    </div>
 
                     <!--begin::Action-->
                     <div class="pb-lg-0 pb-5">
-                        <a href="{{route('blank')}}" type="button" class="btn btn-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mr-3">Sign In</a>
+                        <button type="button" class="btn btn-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mr-3 btn-submit">Sign In</button>
 
                         <button type="button" class="btn btn-light-primary font-weight-bolder px-8 py-4 my-3 font-size-lg">
                             <span class="svg-icon svg-icon-md"><!--begin::Svg Icon | path:{{asset('assets/media/svg/social-icons/google.svg')}}--><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none">
@@ -167,12 +183,26 @@ License: You must have a valid license purchased only from themeforest(the above
                     <!--begin::Form group-->
                     <div class="form-group">
                         <label class="checkbox mb-0">
-                            <input type="checkbox" name="agree"/>I Agree the <a href="#">terms and conditions</a>.
+                            <input type="checkbox" name="agree"/>I Agree the <a href="#">&nbspterms and conditions</a>.
                             <span></span>
                         </label>
                     </div>
                     <!--end::Form group-->
-
+                    <div class="form-group">
+                        <label class="font-size-h6 font-weight-bolder text-dark">Sign up as</label>
+                        <div class="radio-inline h-auto py-4 px-6">
+                            <label class="radio radio-lg">
+                                <input type="radio" checked="checked" value="stud" name="loginas"/>
+                                <span></span>
+                                Student
+                            </label>
+                            <label class="radio radio-lg">
+                                <input type="radio" value="edu" name="loginas"/>
+                                <span></span>
+                                Educator
+                            </label>
+                        </div>
+                    </div>
                     <!--begin::Form group-->
                     <div class="form-group d-flex flex-wrap pb-lg-0 pb-3">
                         <button type="button" id="kt_login_signup_submit" class="btn btn-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mr-4">Submit</button>
@@ -200,7 +230,21 @@ License: You must have a valid license purchased only from themeforest(the above
                         <input class="form-control form-control-solid h-auto py-7 px-6 rounded-lg font-size-h6" type="email" placeholder="Email" name="email" autocomplete="off"/>
                     </div>
                     <!--end::Form group-->
-
+                    <div class="form-group">
+                        <label class="font-size-h6 font-weight-bolder text-dark">For account</label>
+                        <div class="radio-inline h-auto py-4 px-6">
+                            <label class="radio radio-lg">
+                                <input type="radio" checked="checked" value="stud" name="loginas"/>
+                                <span></span>
+                                Student
+                            </label>
+                            <label class="radio radio-lg">
+                                <input type="radio" value="edu" name="loginas"/>
+                                <span></span>
+                                Educator
+                            </label>
+                        </div>
+                    </div>
                     <!--begin::Form group-->
                     <div class="form-group d-flex flex-wrap pb-lg-0">
                         <button type="button" id="kt_login_forgot_submit" class="btn btn-primary font-weight-bolder font-size-h6 px-8 py-4 my-3 mr-4">Submit</button>
@@ -303,6 +347,58 @@ License: You must have a valid license purchased only from themeforest(the above
                     <!--begin::Page Scripts(used by this page)-->
                             <script src="{{asset('assets/js/pages/custom/login/login-general.js?v=7.0.6')}}"></script>
                         <!--end::Page Scripts-->
+              <script>
+                $(document).ready(function(){
+                      $.ajaxSetup({
+                              headers: {
+                                  'X-CSRF-TOKEN': $('input[name="_token"]').val()
+                                  }
+                            });
+                            $("#kt_login_signin_form").on("click", ".btn-submit", function(){
+                              form = $(".btn-submit").closest('form');
+                              $(form).find(".btn-submit").addClass("m-loader m-loader--success m-loader--right").prop("disabled", true);
+                              submitForm(form);
+                            });
+
+                    function submitForm(form)
+            				{
+            					$.ajax({
+            						type:'Post',
+            						url:"{{route('login.post')}}",
+            						data: $(form).serialize(),
+            						dataType: "json",
+            						success: function(data) {
+            							if(data.success)
+            							{
+                              //alert(data.link)
+            			            window.location.replace(data.link);
+            							}
+            							else
+            							{
+            								swal({
+            			            title:"",
+            									//Only display first error return by the array
+            			            text:data.response[0],
+            			            type:"error",
+            			            confirmButtonClass:"btn btn-secondary m-btn m-btn--wide"
+            			          });
+            								//Stop spinner and disabled on button
+            								$(form).find(".btn-submit").removeClass("m-loader m-loader--success m-loader--right").prop("disabled", false);
+            							}
+            						},
+            						error: function(jqXHR, exception){
+            								swal({
+            									title:"",
+            									text:"Error Code: "+jqXHR.status+"-"+jqXHR.statusText,
+            									type:"error",
+            									confirmButtonClass:"btn btn-secondary m-btn m-btn--wide"
+            								});
+            								$(form).find(".btn-submit").removeClass("m-loader m-loader--success m-loader--right").prop("disabled", false);
+            							}
+            					});
+            				}
+                })
+              </script>
             </body>
     <!--end::Body-->
 </html>

@@ -197,11 +197,11 @@ License: You must have a valid license purchased only from themeforest(the above
 			<!--end::Desktop Search-->
 
             <!--begin::Dropdown-->
-         
+
             <!--end::Dropdown-->
 
             <!--begin::Dropdown-->
-          
+
             <!--end::Dropdown-->
         </div>
         <!--end::Toolbar-->
@@ -258,6 +258,9 @@ License: You must have a valid license purchased only from themeforest(the above
                             {{--@include("include.stickytoolbar")--}}
 
 <!--end::Sticky Toolbar-->
+<form id="logoutForm" method="post" action="{{route('logout')}}">
+  @csrf
+</form>
                 <!--begin::Demo Panel-->
 
 <!--end::Demo Panel-->

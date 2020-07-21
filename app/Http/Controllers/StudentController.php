@@ -5,11 +5,11 @@ namespace App\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-class MainController extends Controller
+class StudentController extends Controller
 {
-    public function blank()
-    {
-      return view('blank');
-    }
 
+    public function stud_dashboard()
+    {
+      return view('stud_dashboard');
+    }
 }
