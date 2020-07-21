@@ -16,23 +16,23 @@
 		<!--begin::Nav-->
 		<ul class="nav flex-column">
 			<!--begin::Item-->
-		
+
 			<!--end::Item-->
 
 			<!--begin::Item-->
-		
+
 			<!--end::Item-->
 
 			<!--begin::Item-->
-		
+
 			<!--end::Item-->
 
 			<!--begin::Item-->
-			
+
 			<!--end::Item-->
 
 			<!--begin::Item-->
-		
+
 			<!--end::Item-->
 
 			<!--begin::Item-->
@@ -46,6 +46,24 @@
 		<!--end::Nav-->
 	</div>
 	<!--end::Nav Wrapper-->
+	<!--begin::Footer-->
+		<div class="aside-footer d-flex flex-column align-items-center flex-column-auto py-8">
+						<!--begin::Notifications-->
+	        @include('include.notification')
+				<!--end::Notifications-->
 
-	
+						<!--begin::Quick Actions-->
+	          {{--@include('include.quickaction')--}}
+				<!--end::Quick Actions-->
+
+						<!--begin::Quick Panel-->
+	         {{--@include('include.quickpanel')--}}
+				<!--end::Quick Panel-->
+
+						<!--begin::Languages-->
+	          @include('include.language')
+				<!--end::Languages-->
+				</div>
+		<!--end::Footer-->
+
 </div>
