@@ -31,6 +31,7 @@
                   <!--begin::Symbol-->
                   <div class="symbol symbol-60 symbol-2by3 flex-shrink-0 mr-4">
                       <div class="symbol-label" style="background-image: url('{{asset('assets/media/class/9.png')}}')"></div>
+                      <span class="label label label-light-warning label-rounded font-weight-bolder position-absolute top-0 right-0 mt-0"><i class="fa fa-star"></i></span>
                   </div>
                   <!--end::Symbol-->
 
@@ -54,6 +55,7 @@
                   <!--begin::Symbol-->
                   <div class="symbol symbol-60 symbol-2by3 flex-shrink-0 mr-4">
                       <div class="symbol-label" style="background-image: url('{{asset('assets/media/class/1.jpg')}}')"></div>
+                      <span class="label label label-light-warning label-rounded font-weight-bolder position-absolute top-0 right-0 mt-0"><i class="fa fa-star"></i></span>
                   </div>
                   <!--end::Symbol-->
 
@@ -105,6 +107,7 @@
                     <span class="text-muted">Lead Developer</span>
                 </div>
                 <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
             </div>
             <div class="d-flex align-items-center mb-10">
                 <!--begin::Symbol-->
@@ -121,6 +124,7 @@
                     <span class="text-muted">Marketing Advisor</span>
                 </div>
                 <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
             </div>
             <div class="d-flex align-items-center mb-10">
                 <!--begin::Symbol-->
@@ -137,6 +141,7 @@
                     <span class="text-muted">Teacher</span>
                 </div>
                 <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
             </div>
             <div class="d-flex align-items-center mb-10">
                 <!--begin::Symbol-->
@@ -153,6 +158,7 @@
                     <span class="text-muted">Youtuber</span>
                 </div>
                 <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
             </div>
             <div class="d-flex align-items-center mb-10">
                 <!--begin::Symbol-->
@@ -169,6 +175,7 @@
                     <span class="text-muted">Robotics</span>
                 </div>
                 <!--end::Text-->
+                <div class="label label-light label-inline font-weight-bold text-dark-50 py-4 px-3 font-size-base"><img src="assets/media/logos/stars.png" alt="image" style="width: 5.5rem"></div>
             </div>
               <!--end::Item-->
           </div>
@@ -343,6 +350,7 @@
                             <div class="flex-shrink-0 mr-4">
                                 <div class="symbol symbol-circle symbol-lg-75">
                                     <img src="assets/media/class/1.jpg" alt="image"/>
+                                    <span class="label label label-light-warning label-rounded font-weight-bolder position-absolute top-0 right-0 mt-0"><i class="fa fa-star"></i></span>
                                 </div>
                             </div>
                             <!--end::Pic-->
