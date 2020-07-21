@@ -283,16 +283,31 @@
         			</h3>
         		</div>
         	</div>
-        	<div class="card-body">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at pharetra mi. Proin euismod tortor a aliquam aliquet. Ut aliquet lacinia fringilla. Nullam vel felis porttitor, mattis arcu sit amet, scelerisque nunc. Fusce dolor nisi, commodo non nunc porta, efficitur volutpat felis. Curabitur aliquam vel libero id pharetra. Sed eget interdum felis. Sed vehicula ante id nunc elementum, sit amet euismod lorem ultricies. Sed vel sagittis quam, auctor dapibus est. Sed pellentesque enim at neque ornare, a fermentum augue pellentesque. Maecenas faucibus nulla at dolor mollis sollicitudin. Praesent non ex mattis, tristique felis venenatis, congue risus. Ut vitae condimentum orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+          <div class="card-body">
+              Laravel has become one of the most popular if not the most popular PHP framework. Employers are asking for this skill for all web programming jobs and in this course we have put together all of them, to give you the best chance of landing that job; or taking it to the next level.
+              Why is Laravel so popular? Because once you learn it, creating complex applications are easy to do, because thousands of other people have created code we can plug (packages) into our Laravel application to make it even better.
+              There are many reasons why Laravel is on the top when it comes to PHP frameworks but we are not here to talk about that, right? You are here because you want to learn Laravel, and find out what course to take, right? Alright, let's list what this course has to offer so that you can make your decision?
+              <br><br>
+              Benefits of taking this course (I promise to be  brief)
               <br>
+              1.  Top PHP instructor (with other successful PHP courses with great reviews)
               <br>
-              Donec vitae scelerisque nunc. Vestibulum ut tempor sapien. Curabitur vel lectus interdum, pellentesque tortor ut, consequat turpis. Morbi accumsan quis enim ut faucibus. Phasellus massa ligula, consectetur dictum pellentesque id, semper id dui. Proin dictum lorem risus, ut maximus ligula malesuada sed. Proin felis metus, convallis quis elit sed, consequat fermentum metus. Donec fermentum condimentum tortor non commodo. Donec et dolor diam. Donec convallis tellus enim, faucibus rhoncus felis volutpat a. Donec ultrices orci ut pulvinar iaculis. Cras nec finibus diam, vitae fermentum est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-        	</div>
+              2.  Top support groups
+              <br>
+              3.  An amazing project that we will be building and taking to Github
+              <br>
+              4.  Lots of cybernetic coffee to keep you awake.....
+              <br>
+              5.  Did I mention I was not boring and you will not fall asleep?
+              <br><br>
+              Lots of practical skill with some theory so you get more experience that its essential for becoming a Professional Laravel Developer.
+              This course will take your game a new level. Imagine being able to create the next Facebook or Twitter, or even getting the developer job you dream of?
+              What about just a programming job? You can achieve all that if you study with us and really focus. We will help you along the way.
+          </div>
         </div>
     </div>
-</div>
-<div class="card card-custom gutter-b">
+  </div>
+  <div class="card card-custom gutter-b">
     <!--begin::Body-->
     <div class="card-body">
         <!--begin::Top-->
@@ -356,8 +371,8 @@
         <!--end::Form-->
     </div>
     <!--end::Body-->
-</div>
-<div class="card card-custom gutter-b">
+  </div>
+  <div class="card card-custom gutter-b">
     <!--begin::Body-->
     <div class="card-body">
         <!--begin::Header-->
@@ -365,14 +380,14 @@
             <!--begin::Symbol-->
             <div class="symbol symbol-40 symbol-light-success mr-5">
                 <span class="symbol-label">
-                    <img src="assets/media/svg/avatars/018-girl-9.svg" class="h-75 align-self-end" alt=""/>
+                    <img src="assets/media/users/100_2.jpg" class="h-100 align-self-end" alt=""/>
                 </span>
             </div>
             <!--end::Symbol-->
 
             <!--begin::Info-->
             <div class="d-flex flex-column flex-grow-1">
-                <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Grace Logan</a>
+                <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Aisyah Munirah</a>
                 <span class="text-muted font-weight-bold"> Yestarday at 5:06 PM</span>
             </div>
             <!--end::Info-->
@@ -384,7 +399,7 @@
                 </a>
                 <div class="dropdown-menu p-0 m-0 dropdown-menu-md dropdown-menu-right">
                     <!--begin::Navigation-->
-<ul class="navi navi-hover">
+  <ul class="navi navi-hover">
     <li class="navi-header font-weight-bold py-4">
         <span class="font-size-lg">Choose Label:</span>
         <i class="flaticon2-information icon-md text-muted" data-toggle="tooltip" data-placement="right" title="Click to learn more..."></i>
@@ -432,8 +447,8 @@
             Add new
         </a>
     </li>
-</ul>
-<!--end::Navigation-->
+  </ul>
+  <!--end::Navigation-->
                 </div>
             </div>
             <!--end::Dropdown-->
@@ -444,7 +459,7 @@
         <div class="pt-5">
             <!--begin::Text-->
             <p class="text-dark-75 font-size-lg font-weight-normal  mb-2">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ligula turpis, cursus porttitor molestie cursus, vestibulum id sapien. Maecenas tempor quis libero eget ultrices. Nunc pretium ex ante, in accumsan odio ultricies a
+                Quite the adventure compared to other tutorials on this site. I love the raw feeling in these videos as you can see the gears turning when Edwin thinks about an issue. Even the pauses in the moments where he's thinking of his next step keeps me captivated. Even when I know what the correct move is, it still keeps 100% of my attention as I want to see what he will do. So far I love the course and look forward to the remainder.
             </p>
             <!--end::Text-->
 
@@ -457,7 +472,7 @@
         <path d="M16,15.6315789 L16,12 C16,10.3431458 14.6568542,9 13,9 L6.16183229,9 L6.16183229,5.52631579 C6.16183229,4.13107011 7.29290239,3 8.68814808,3 L20.4776218,3 C21.8728674,3 23.0039375,4.13107011 23.0039375,5.52631579 L23.0039375,13.1052632 L23.0206157,17.786793 C23.0215995,18.0629336 22.7985408,18.2875874 22.5224001,18.2885711 C22.3891754,18.2890457 22.2612702,18.2363324 22.1670655,18.1421277 L19.6565168,15.6315789 L16,15.6315789 Z" fill="#000000"/>
         <path d="M1.98505595,18 L1.98505595,13 C1.98505595,11.8954305 2.88048645,11 3.98505595,11 L11.9850559,11 C13.0896254,11 13.9850559,11.8954305 13.9850559,13 L13.9850559,18 C13.9850559,19.1045695 13.0896254,20 11.9850559,20 L4.10078614,20 L2.85693427,21.1905292 C2.65744295,21.3814685 2.34093638,21.3745358 2.14999706,21.1750444 C2.06092565,21.0819836 2.01120804,20.958136 2.01120804,20.8293182 L2.01120804,18.32426 C1.99400175,18.2187196 1.98505595,18.1104045 1.98505595,18 Z M6.5,14 C6.22385763,14 6,14.2238576 6,14.5 C6,14.7761424 6.22385763,15 6.5,15 L11.5,15 C11.7761424,15 12,14.7761424 12,14.5 C12,14.2238576 11.7761424,14 11.5,14 L6.5,14 Z M9.5,16 C9.22385763,16 9,16.2238576 9,16.5 C9,16.7761424 9.22385763,17 9.5,17 L11.5,17 C11.7761424,17 12,16.7761424 12,16.5 C12,16.2238576 11.7761424,16 11.5,16 L9.5,16 Z" fill="#000000" opacity="0.3"/>
     </g>
-</svg><!--end::Svg Icon--></span>                    24
+  </svg><!--end::Svg Icon--></span>                    24
                 </a>
 
                 <a href="#" class="btn btn-sm btn-text-dark-50 btn-hover-icon-danger btn-hover-text-danger bg-hover-light-danger font-weight-bolder rounded font-size-sm p-2">
@@ -466,7 +481,7 @@
         <polygon points="0 0 24 0 24 24 0 24"/>
         <path d="M16.5,4.5 C14.8905,4.5 13.00825,6.32463215 12,7.5 C10.99175,6.32463215 9.1095,4.5 7.5,4.5 C4.651,4.5 3,6.72217984 3,9.55040872 C3,12.6834696 6,16 12,19.5 C18,16 21,12.75 21,9.75 C21,6.92177112 19.349,4.5 16.5,4.5 Z" fill="#000000" fill-rule="nonzero"/>
     </g>
-</svg><!--end::Svg Icon--></span>                    75
+  </svg><!--end::Svg Icon--></span>                    75
                 </a>
             </div>
             <!--end::Action-->
@@ -493,13 +508,13 @@
         <!--edit::Editor-->
     </div>
     <!--end::Body-->
-</div>
-<!--end::Forms Widget 3-->
+  </div>
+  <!--end::Forms Widget 3-->
 
 
 
-<!--begin::Forms Widget 4-->
-<div class="card card-custom gutter-b">
+  <!--begin::Forms Widget 4-->
+  <div class="card card-custom gutter-b">
     <!--begin::Body-->
     <div class="card-body">
         <!--begin::Top-->
@@ -507,14 +522,14 @@
             <!--begin::Symbol-->
             <div class="symbol symbol-40 symbol-light-success mr-5">
                 <span class="symbol-label">
-                    <img src="assets/media/svg/avatars/047-girl-25.svg" class="h-75 align-self-end" alt=""/>
+                    <img src="assets/media/users/100_4.jpg" class="h-100 align-self-end" alt=""/>
                 </span>
             </div>
             <!--end::Symbol-->
 
             <!--begin::Info-->
             <div class="d-flex flex-column flex-grow-1">
-                <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Ruby Liam</a>
+                <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Ain Fatini</a>
                 <span class="text-muted font-weight-bold">Yestarday at 5:06 PM</span>
             </div>
             <!--end::Info-->
@@ -526,7 +541,7 @@
                 </a>
                 <div class="dropdown-menu p-0 m-0 dropdown-menu-md dropdown-menu-right">
                     <!--begin::Navigation-->
-<ul class="navi navi-hover">
+  <ul class="navi navi-hover">
     <li class="navi-header font-weight-bold py-4">
         <span class="font-size-lg">Choose Label:</span>
         <i class="flaticon2-information icon-md text-muted" data-toggle="tooltip" data-placement="right" title="Click to learn more..."></i>
@@ -574,8 +589,8 @@
             Add new
         </a>
     </li>
-</ul>
-<!--end::Navigation-->
+  </ul>
+  <!--end::Navigation-->
                 </div>
             </div>
             <!--end::Dropdown-->
@@ -585,12 +600,12 @@
         <!--begin::Bottom-->
         <div class="pt-4">
             <!--begin::Image-->
-            <div class="bgi-no-repeat bgi-size-cover rounded min-h-265px" style="background-image: url(assets/media/stock-900x600/3.jpg)"></div>
+            <!--<div class="bgi-no-repeat bgi-size-cover rounded min-h-265px" style="background-image: url(assets/media/stock-900x600/3.jpg)"></div>-->
             <!--end::Image-->
 
             <!--begin::Text-->
             <p class="text-dark-75 font-size-lg font-weight-normal pt-5 mb-2">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet ultricies justo, eget lacinia ex. Aenean lacinia augue eu molestie hendrerit. Proin id libero nec nisi faucibus pellentesque. Pellentesque placerat velit sed magna aliquet, a volutpat nunc dapibus. Donec luctus odio quis ullamcorper tristique. Nulla in leo quis dui suscipit egestas at tristique lacus. Sed sed diam erat.
+                Course yang sangat menarik!!! Semua content dari course ini sangat ringkas dan mudah untuk difahami. Tidak lupa juga instructor yang sangat membantu bila saya memerlukan apa apa bantuan.
             </p>
             <!--end::Text-->
 
@@ -603,7 +618,7 @@
         <path d="M16,15.6315789 L16,12 C16,10.3431458 14.6568542,9 13,9 L6.16183229,9 L6.16183229,5.52631579 C6.16183229,4.13107011 7.29290239,3 8.68814808,3 L20.4776218,3 C21.8728674,3 23.0039375,4.13107011 23.0039375,5.52631579 L23.0039375,13.1052632 L23.0206157,17.786793 C23.0215995,18.0629336 22.7985408,18.2875874 22.5224001,18.2885711 C22.3891754,18.2890457 22.2612702,18.2363324 22.1670655,18.1421277 L19.6565168,15.6315789 L16,15.6315789 Z" fill="#000000"/>
         <path d="M1.98505595,18 L1.98505595,13 C1.98505595,11.8954305 2.88048645,11 3.98505595,11 L11.9850559,11 C13.0896254,11 13.9850559,11.8954305 13.9850559,13 L13.9850559,18 C13.9850559,19.1045695 13.0896254,20 11.9850559,20 L4.10078614,20 L2.85693427,21.1905292 C2.65744295,21.3814685 2.34093638,21.3745358 2.14999706,21.1750444 C2.06092565,21.0819836 2.01120804,20.958136 2.01120804,20.8293182 L2.01120804,18.32426 C1.99400175,18.2187196 1.98505595,18.1104045 1.98505595,18 Z M6.5,14 C6.22385763,14 6,14.2238576 6,14.5 C6,14.7761424 6.22385763,15 6.5,15 L11.5,15 C11.7761424,15 12,14.7761424 12,14.5 C12,14.2238576 11.7761424,14 11.5,14 L6.5,14 Z M9.5,16 C9.22385763,16 9,16.2238576 9,16.5 C9,16.7761424 9.22385763,17 9.5,17 L11.5,17 C11.7761424,17 12,16.7761424 12,16.5 C12,16.2238576 11.7761424,16 11.5,16 L9.5,16 Z" fill="#000000" opacity="0.3"/>
     </g>
-</svg><!--end::Svg Icon--></span>                    24
+  </svg><!--end::Svg Icon--></span>                    24
                 </a>
 
                 <a href="#" class="btn btn-icon-danger btn-sm btn-text-dark-50 bg-hover-light-danger btn-hover-text-danger rounded font-weight-bolder font-size-sm p-2">
@@ -612,7 +627,7 @@
         <polygon points="0 0 24 0 24 24 0 24"/>
         <path d="M16.5,4.5 C14.8905,4.5 13.00825,6.32463215 12,7.5 C10.99175,6.32463215 9.1095,4.5 7.5,4.5 C4.651,4.5 3,6.72217984 3,9.55040872 C3,12.6834696 6,16 12,19.5 C18,16 21,12.75 21,9.75 C21,6.92177112 19.349,4.5 16.5,4.5 Z" fill="#000000" fill-rule="nonzero"/>
     </g>
-</svg><!--end::Svg Icon--></span>                    75
+  </svg><!--end::Svg Icon--></span>                    75
                 </a>
             </div>
             <!--end::Action-->
@@ -639,11 +654,11 @@
         <!--edit::Editor-->
     </div>
     <!--end::Body-->
-</div>
-<!--end::Forms Widget 4-->
+  </div>
+  <!--end::Forms Widget 4-->
 
                 <!--begin::Forms Widget 5-->
-<div class="card card-custom gutter-b">
+  <div class="card card-custom gutter-b">
     <!--begin::Body-->
     <div class="card-body">
         <!--begin::Container-->
@@ -653,14 +668,14 @@
                 <!--begin::Symbol-->
                 <div class="symbol symbol-40 symbol-light-success mr-5">
                     <span class="symbol-label">
-                        <img src="assets/media/svg/avatars/018-girl-9.svg" class="h-75 align-self-end" alt=""/>
+                        <img src="assets/media/users/100_7.jpg" class="h-100 align-self-end" alt=""/>
                     </span>
                 </div>
                 <!--end::Symbol-->
 
                 <!--begin::Info-->
                 <div class="d-flex flex-column flex-grow-1">
-                    <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Grace Logan</a>
+                    <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Elliesha Shakira</a>
                     <span class="text-muted font-weight-bold">Yestarday at 5:06 PM</span>
                 </div>
                 <!--end::Info-->
@@ -672,7 +687,7 @@
                     </a>
                     <div class="dropdown-menu p-0 m-0 dropdown-menu-md dropdown-menu-right">
                         <!--begin::Navigation-->
-<ul class="navi navi-hover">
+  <ul class="navi navi-hover">
     <li class="navi-header font-weight-bold py-4">
         <span class="font-size-lg">Choose Label:</span>
         <i class="flaticon2-information icon-md text-muted" data-toggle="tooltip" data-placement="right" title="Click to learn more..."></i>
@@ -720,8 +735,8 @@
             Add new
         </a>
     </li>
-</ul>
-<!--end::Navigation-->
+  </ul>
+  <!--end::Navigation-->
                     </div>
                 </div>
                 <!--end::Dropdown-->
@@ -732,7 +747,7 @@
             <div>
                 <!--begin::Text-->
                 <p class="text-dark-75 font-size-lg font-weight-normal">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra rutrum lobortis. Pellentesque bibendum urna enim, nec finibus ligula laoreet at.
+                    Ada sesiapa boleh bantu saya? Saya ingin bertanya kepada guru yang mengajar course ini untuk mendapatkan maklumat yang lebih lanjut. Bagaimanakah saya boleh hubunginya?
                 </p>
                 <!--end::Text-->
 
@@ -745,7 +760,7 @@
         <path d="M16,15.6315789 L16,12 C16,10.3431458 14.6568542,9 13,9 L6.16183229,9 L6.16183229,5.52631579 C6.16183229,4.13107011 7.29290239,3 8.68814808,3 L20.4776218,3 C21.8728674,3 23.0039375,4.13107011 23.0039375,5.52631579 L23.0039375,13.1052632 L23.0206157,17.786793 C23.0215995,18.0629336 22.7985408,18.2875874 22.5224001,18.2885711 C22.3891754,18.2890457 22.2612702,18.2363324 22.1670655,18.1421277 L19.6565168,15.6315789 L16,15.6315789 Z" fill="#000000"/>
         <path d="M1.98505595,18 L1.98505595,13 C1.98505595,11.8954305 2.88048645,11 3.98505595,11 L11.9850559,11 C13.0896254,11 13.9850559,11.8954305 13.9850559,13 L13.9850559,18 C13.9850559,19.1045695 13.0896254,20 11.9850559,20 L4.10078614,20 L2.85693427,21.1905292 C2.65744295,21.3814685 2.34093638,21.3745358 2.14999706,21.1750444 C2.06092565,21.0819836 2.01120804,20.958136 2.01120804,20.8293182 L2.01120804,18.32426 C1.99400175,18.2187196 1.98505595,18.1104045 1.98505595,18 Z M6.5,14 C6.22385763,14 6,14.2238576 6,14.5 C6,14.7761424 6.22385763,15 6.5,15 L11.5,15 C11.7761424,15 12,14.7761424 12,14.5 C12,14.2238576 11.7761424,14 11.5,14 L6.5,14 Z M9.5,16 C9.22385763,16 9,16.2238576 9,16.5 C9,16.7761424 9.22385763,17 9.5,17 L11.5,17 C11.7761424,17 12,16.7761424 12,16.5 C12,16.2238576 11.7761424,16 11.5,16 L9.5,16 Z" fill="#000000" opacity="0.3"/>
     </g>
-</svg><!--end::Svg Icon--></span>                        24
+  </svg><!--end::Svg Icon--></span>                        24
                     </a>
 
                     <a href="#" class="btn btn-hover-text-danger btn-hover-icon-danger btn-sm btn-text-dark-50 bg-hover-light-danger rounded font-weight-bolder font-size-sm p-2">
@@ -754,7 +769,7 @@
         <polygon points="0 0 24 0 24 24 0 24"/>
         <path d="M16.5,4.5 C14.8905,4.5 13.00825,6.32463215 12,7.5 C10.99175,6.32463215 9.1095,4.5 7.5,4.5 C4.651,4.5 3,6.72217984 3,9.55040872 C3,12.6834696 6,16 12,19.5 C18,16 21,12.75 21,9.75 C21,6.92177112 19.349,4.5 16.5,4.5 Z" fill="#000000" fill-rule="nonzero"/>
     </g>
-</svg><!--end::Svg Icon--></span>                        75
+  </svg><!--end::Svg Icon--></span>                        75
                     </a>
                 </div>
                 <!--end::Action-->
@@ -764,7 +779,7 @@
                     <!--begin::Symbol-->
                     <div class="symbol symbol-40 symbol-light-success mr-5 mt-1">
                         <span class="symbol-label">
-                            <img src="assets/media/svg/avatars/009-boy-4.svg" class="h-75 align-self-end" alt=""/>
+                            <img src="assets/media/users/100_6.jpg" class="h-100 align-self-end" alt=""/>
                         </span>
                     </div>
                     <!--end::Symbol-->
@@ -773,13 +788,13 @@
                     <div class="d-flex flex-column flex-row-fluid">
                         <!--begin::Info-->
                         <div class="d-flex align-items-center flex-wrap">
-                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Mr. Anderson</a>
+                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Aliff Hakim</a>
                             <span class="text-muted font-weight-normal flex-grow-1 font-size-sm">1 Day ago</span>
                             <span class="text-muted font-weight-normal font-size-sm">Reply</span>
                         </div>
 
                         <span class="text-dark-75 font-size-sm font-weight-normal pt-1">
-                            Pellentesque commodo ante molestie ex posuere, nec sollicitudin ipsum eleifend. Sed at est aliquam, gravida nisl quis, laoreet odio. Sed eu faucibus sapien.
+                            Anda boleh menghubungi no 012-1234567
                         </span>
                         <!--end::Info-->
                     </div>
@@ -792,7 +807,7 @@
                     <!--begin::Symbol-->
                     <div class="symbol symbol-40 symbol-light-success mr-5 mt-1">
                         <span class="symbol-label">
-                            <img src="assets/media/svg/avatars/003-girl-1.svg" class="h-75 align-self-end" alt=""/>
+                            <img src="assets/media/users/100_7.jpg" class="h-100 align-self-end" alt=""/>
                         </span>
                     </div>
                     <!--end::Symbol-->
@@ -801,13 +816,13 @@
                     <div class="d-flex flex-column flex-row-fluid">
                         <!--begin::Info-->
                         <div class="d-flex align-items-center flex-wrap">
-                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Mrs. Anderson</a>
+                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Elliesha Shakira</a>
                             <span class="text-muted font-weight-normal flex-grow-1 font-size-sm">2 Days ago</span>
                             <span class="text-muted font-weight-normal font-size-sm">Reply</span>
                         </div>
 
                         <span class="text-dark-75 font-size-sm font-weight-normal pt-1">
-                             Cras sit amet ante diam.
+                             Okay Aliff terima kasih!
                         </span>
                         <!--end::Info-->
                     </div>
@@ -839,11 +854,11 @@
         <!--edit::Editor-->
     </div>
     <!--end::Body-->
-</div>
-<!--end::Forms Widget 5-->
+  </div>
+  <!--end::Forms Widget 5-->
 
                 <!--begin::Forms Widget 6-->
-<div class="card card-custom gutter-b">
+  <div class="card card-custom gutter-b">
     <!--begin::Body-->
     <div class="card-body">
         <!--begin::Container-->
@@ -853,14 +868,14 @@
                 <!--begin::Symbol-->
                 <div class="symbol symbol-40 symbol-light-success mr-5">
                     <span class="symbol-label">
-                        <img src="assets/media/svg/avatars/009-boy-4.svg" class="h-75 align-self-end" alt=""/>
+                        <img src="assets/media/users/100_8.jpg" class="h-100 align-self-end" alt=""/>
                     </span>
                 </div>
                 <!--end::Symbol-->
 
                 <!--begin::Info-->
                 <div class="d-flex flex-column flex-grow-1">
-                    <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Nikky Peres</a>
+                    <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Imran Sidi</a>
                     <span class="text-muted font-weight-bold">Yestarday at 5:06 PM</span>
                 </div>
                 <!--end::Info-->
@@ -872,7 +887,7 @@
                     </a>
                     <div class="dropdown-menu p-0 m-0 dropdown-menu-md dropdown-menu-right">
                         <!--begin::Navigation-->
-<ul class="navi navi-hover">
+  <ul class="navi navi-hover">
     <li class="navi-header font-weight-bold py-4">
         <span class="font-size-lg">Choose Label:</span>
         <i class="flaticon2-information icon-md text-muted" data-toggle="tooltip" data-placement="right" title="Click to learn more..."></i>
@@ -920,8 +935,8 @@
             Add new
         </a>
     </li>
-</ul>
-<!--end::Navigation-->
+  </ul>
+  <!--end::Navigation-->
                     </div>
                 </div>
                 <!--end::Dropdown-->
@@ -932,7 +947,11 @@
             <div>
                 <!--begin::Text-->
                 <p class="text-dark-75 font-size-lg font-weight-normal pt-5 mb-2">
-                    Aenean vitae nisl at mauris fermentum tempus ac a ex. Mauris dapibus tincidunt ex eu lobortis. 
+                  Sir Aliff is the best instructor.
+                  <br>
+                  I would like to see a new course in the future.
+                  <br>
+                  Аll the best
                 </p>
                 <!--end::Text-->
 

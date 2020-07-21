@@ -176,7 +176,7 @@
 
 <!--end::Advance Table Widget 3-->
     </div>
-    <div class="col-lg-">
+    <div class="col-lg-12">
       <div class="card card-custom">
         	<div class="card-header">
         		<div class="card-title">
@@ -189,14 +189,32 @@
         		</div>
         	</div>
         	<div class="card-body">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at pharetra mi. Proin euismod tortor a aliquam aliquet. Ut aliquet lacinia fringilla. Nullam vel felis porttitor, mattis arcu sit amet, scelerisque nunc. Fusce dolor nisi, commodo non nunc porta, efficitur volutpat felis. Curabitur aliquam vel libero id pharetra. Sed eget interdum felis. Sed vehicula ante id nunc elementum, sit amet euismod lorem ultricies. Sed vel sagittis quam, auctor dapibus est. Sed pellentesque enim at neque ornare, a fermentum augue pellentesque. Maecenas faucibus nulla at dolor mollis sollicitudin. Praesent non ex mattis, tristique felis venenatis, congue risus. Ut vitae condimentum orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+              Laravel has become one of the most popular if not the most popular PHP framework. Employers are asking for this skill for all web programming jobs and in this course we have put together all of them, to give you the best chance of landing that job; or taking it to the next level.
+              Why is Laravel so popular? Because once you learn it, creating complex applications are easy to do, because thousands of other people have created code we can plug (packages) into our Laravel application to make it even better.
+              There are many reasons why Laravel is on the top when it comes to PHP frameworks but we are not here to talk about that, right? You are here because you want to learn Laravel, and find out what course to take, right? Alright, let's list what this course has to offer so that you can make your decision?
+              <br><br>
+              Benefits of taking this course (I promise to be  brief)
               <br>
+              1.  Top PHP instructor (with other successful PHP courses with great reviews)
               <br>
-              Donec vitae scelerisque nunc. Vestibulum ut tempor sapien. Curabitur vel lectus interdum, pellentesque tortor ut, consequat turpis. Morbi accumsan quis enim ut faucibus. Phasellus massa ligula, consectetur dictum pellentesque id, semper id dui. Proin dictum lorem risus, ut maximus ligula malesuada sed. Proin felis metus, convallis quis elit sed, consequat fermentum metus. Donec fermentum condimentum tortor non commodo. Donec et dolor diam. Donec convallis tellus enim, faucibus rhoncus felis volutpat a. Donec ultrices orci ut pulvinar iaculis. Cras nec finibus diam, vitae fermentum est. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+              2.  Top support groups
+              <br>
+              3.  An amazing project that we will be building and taking to Github
+              <br>
+              4.  Lots of cybernetic coffee to keep you awake.....
+              <br>
+              5.  Did I mention I was not boring and you will not fall asleep?
+              <br><br>
+              Lots of practical skill with some theory so you get more experience that its essential for becoming a Professional Laravel Developer.
+              This course will take your game a new level. Imagine being able to create the next Facebook or Twitter, or even getting the developer job you dream of?
+              What about just a programming job? You can achieve all that if you study with us and really focus. We will help you along the way.
         	</div>
         </div>
     </div>
 </div>
+
+<br>
+
 <div class="card card-custom gutter-b">
     <!--begin::Body-->
     <div class="card-body">
@@ -270,14 +288,14 @@
             <!--begin::Symbol-->
             <div class="symbol symbol-40 symbol-light-success mr-5">
                 <span class="symbol-label">
-                    <img src="assets/media/svg/avatars/018-girl-9.svg" class="h-75 align-self-end" alt=""/>
+                    <img src="assets/media/users/100_2.jpg" class="h-100 align-self-end" alt=""/>
                 </span>
             </div>
             <!--end::Symbol-->
 
             <!--begin::Info-->
             <div class="d-flex flex-column flex-grow-1">
-                <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Grace Logan</a>
+                <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Aisyah Munirah</a>
                 <span class="text-muted font-weight-bold"> Yestarday at 5:06 PM</span>
             </div>
             <!--end::Info-->
@@ -349,7 +367,7 @@
         <div class="pt-5">
             <!--begin::Text-->
             <p class="text-dark-75 font-size-lg font-weight-normal  mb-2">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ligula turpis, cursus porttitor molestie cursus, vestibulum id sapien. Maecenas tempor quis libero eget ultrices. Nunc pretium ex ante, in accumsan odio ultricies a
+                Quite the adventure compared to other tutorials on this site. I love the raw feeling in these videos as you can see the gears turning when Edwin thinks about an issue. Even the pauses in the moments where he's thinking of his next step keeps me captivated. Even when I know what the correct move is, it still keeps 100% of my attention as I want to see what he will do. So far I love the course and look forward to the remainder.
             </p>
             <!--end::Text-->
 
@@ -412,14 +430,14 @@
             <!--begin::Symbol-->
             <div class="symbol symbol-40 symbol-light-success mr-5">
                 <span class="symbol-label">
-                    <img src="assets/media/svg/avatars/047-girl-25.svg" class="h-75 align-self-end" alt=""/>
+                    <img src="assets/media/users/100_4.jpg" class="h-100 align-self-end" alt=""/>
                 </span>
             </div>
             <!--end::Symbol-->
 
             <!--begin::Info-->
             <div class="d-flex flex-column flex-grow-1">
-                <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Ruby Liam</a>
+                <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Ain Fatini</a>
                 <span class="text-muted font-weight-bold">Yestarday at 5:06 PM</span>
             </div>
             <!--end::Info-->
@@ -490,12 +508,12 @@
         <!--begin::Bottom-->
         <div class="pt-4">
             <!--begin::Image-->
-            <div class="bgi-no-repeat bgi-size-cover rounded min-h-265px" style="background-image: url(assets/media/stock-900x600/3.jpg)"></div>
+            <!--<div class="bgi-no-repeat bgi-size-cover rounded min-h-265px" style="background-image: url(assets/media/stock-900x600/3.jpg)"></div>-->
             <!--end::Image-->
 
             <!--begin::Text-->
             <p class="text-dark-75 font-size-lg font-weight-normal pt-5 mb-2">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit amet ultricies justo, eget lacinia ex. Aenean lacinia augue eu molestie hendrerit. Proin id libero nec nisi faucibus pellentesque. Pellentesque placerat velit sed magna aliquet, a volutpat nunc dapibus. Donec luctus odio quis ullamcorper tristique. Nulla in leo quis dui suscipit egestas at tristique lacus. Sed sed diam erat.
+                Course yang sangat menarik!!! Semua content dari course ini sangat ringkas dan mudah untuk difahami. Tidak lupa juga instructor yang sangat membantu bila saya memerlukan apa apa bantuan.
             </p>
             <!--end::Text-->
 
@@ -558,14 +576,14 @@
                 <!--begin::Symbol-->
                 <div class="symbol symbol-40 symbol-light-success mr-5">
                     <span class="symbol-label">
-                        <img src="assets/media/svg/avatars/018-girl-9.svg" class="h-75 align-self-end" alt=""/>
+                        <img src="assets/media/users/100_7.jpg" class="h-100 align-self-end" alt=""/>
                     </span>
                 </div>
                 <!--end::Symbol-->
 
                 <!--begin::Info-->
                 <div class="d-flex flex-column flex-grow-1">
-                    <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Grace Logan</a>
+                    <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Elliesha Shakira</a>
                     <span class="text-muted font-weight-bold">Yestarday at 5:06 PM</span>
                 </div>
                 <!--end::Info-->
@@ -637,7 +655,7 @@
             <div>
                 <!--begin::Text-->
                 <p class="text-dark-75 font-size-lg font-weight-normal">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra rutrum lobortis. Pellentesque bibendum urna enim, nec finibus ligula laoreet at.
+                    Ada sesiapa boleh bantu saya? Saya ingin bertanya kepada guru yang mengajar course ini untuk mendapatkan maklumat yang lebih lanjut. Bagaimanakah saya boleh hubunginya?
                 </p>
                 <!--end::Text-->
 
@@ -669,7 +687,7 @@
                     <!--begin::Symbol-->
                     <div class="symbol symbol-40 symbol-light-success mr-5 mt-1">
                         <span class="symbol-label">
-                            <img src="assets/media/svg/avatars/009-boy-4.svg" class="h-75 align-self-end" alt=""/>
+                            <img src="assets/media/users/100_6.jpg" class="h-100 align-self-end" alt=""/>
                         </span>
                     </div>
                     <!--end::Symbol-->
@@ -678,13 +696,13 @@
                     <div class="d-flex flex-column flex-row-fluid">
                         <!--begin::Info-->
                         <div class="d-flex align-items-center flex-wrap">
-                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Mr. Anderson</a>
+                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Aliff Hakim</a>
                             <span class="text-muted font-weight-normal flex-grow-1 font-size-sm">1 Day ago</span>
                             <span class="text-muted font-weight-normal font-size-sm">Reply</span>
                         </div>
 
                         <span class="text-dark-75 font-size-sm font-weight-normal pt-1">
-                            Pellentesque commodo ante molestie ex posuere, nec sollicitudin ipsum eleifend. Sed at est aliquam, gravida nisl quis, laoreet odio. Sed eu faucibus sapien.
+                            Anda boleh menghubungi no 012-1234567
                         </span>
                         <!--end::Info-->
                     </div>
@@ -697,7 +715,7 @@
                     <!--begin::Symbol-->
                     <div class="symbol symbol-40 symbol-light-success mr-5 mt-1">
                         <span class="symbol-label">
-                            <img src="assets/media/svg/avatars/003-girl-1.svg" class="h-75 align-self-end" alt=""/>
+                            <img src="assets/media/users/100_7.jpg" class="h-100 align-self-end" alt=""/>
                         </span>
                     </div>
                     <!--end::Symbol-->
@@ -706,13 +724,13 @@
                     <div class="d-flex flex-column flex-row-fluid">
                         <!--begin::Info-->
                         <div class="d-flex align-items-center flex-wrap">
-                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Mrs. Anderson</a>
+                            <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder pr-6">Elliesha Shakira</a>
                             <span class="text-muted font-weight-normal flex-grow-1 font-size-sm">2 Days ago</span>
                             <span class="text-muted font-weight-normal font-size-sm">Reply</span>
                         </div>
 
                         <span class="text-dark-75 font-size-sm font-weight-normal pt-1">
-                             Cras sit amet ante diam.
+                             Okay Aliff terima kasih!
                         </span>
                         <!--end::Info-->
                     </div>
@@ -758,14 +776,14 @@
                 <!--begin::Symbol-->
                 <div class="symbol symbol-40 symbol-light-success mr-5">
                     <span class="symbol-label">
-                        <img src="assets/media/svg/avatars/009-boy-4.svg" class="h-75 align-self-end" alt=""/>
+                        <img src="assets/media/users/100_8.jpg" class="h-100 align-self-end" alt=""/>
                     </span>
                 </div>
                 <!--end::Symbol-->
 
                 <!--begin::Info-->
                 <div class="d-flex flex-column flex-grow-1">
-                    <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Nikky Peres</a>
+                    <a href="#" class="text-dark-75 text-hover-primary mb-1 font-size-lg font-weight-bolder">Imran Sidi</a>
                     <span class="text-muted font-weight-bold">Yestarday at 5:06 PM</span>
                 </div>
                 <!--end::Info-->
@@ -837,7 +855,11 @@
             <div>
                 <!--begin::Text-->
                 <p class="text-dark-75 font-size-lg font-weight-normal pt-5 mb-2">
-                    Aenean vitae nisl at mauris fermentum tempus ac a ex. Mauris dapibus tincidunt ex eu lobortis. 
+                  Sir Aliff is the best instructor.
+                  <br>
+                  I would like to see a new course in the future.
+                  <br>
+                  Аll the best
                 </p>
                 <!--end::Text-->
 
