@@ -47,7 +47,7 @@ License: You must have a valid license purchased only from themeforest(the above
 	<!--begin::Header Mobile-->
 <div id="kt_header_mobile" class="header-mobile  header-mobile-fixed " >
 	<!--begin::Logo-->
-	<a href="index.html">
+	<a href="<?php if(Session::get('loginas') == 'stud') echo route('stud_dashboard'); else echo route('edu_dashboard'); ?>">
 		<img alt="Logo" src="{{asset('assets/media/logos/logo-letter-1.png')}}" class="logo-default max-h-30px"/>
 	</a>
 	<!--end::Logo-->
