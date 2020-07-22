@@ -190,7 +190,6 @@
                 <thead>
                     <tr class="text-uppercase">
                         <th style="min-width: 250px" class="pl-7"><span class="text-dark-75">Student</span></th>
-                        <th style="min-width: 130px">status</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -207,9 +206,6 @@
                                 </div>
                             </div>
                         </td>
-                        <td>
-                            <span class="label label-lg label-light-success label-inline">Paid</span>
-                        </td>
                     </tr>
                     <tr>
                         <td class="pl-0 py-8">
@@ -223,9 +219,6 @@
                                     <span class="text-muted font-weight-bold d-block">Former Chief Technology Officer</span>
                                 </div>
                             </div>
-                        </td>
-                        <td>
-                            <span class="label label-lg label-light-success label-inline">Paid</span>
                         </td>
                     </tr>
                     <tr>
@@ -241,9 +234,6 @@
                                 </div>
                             </div>
                         </td>
-                        <td>
-                            <span class="label label-lg label-light-danger label-inline">Cancelled</span>
-                        </td>
                     </tr>
                     <tr>
                         <td class="pl-0 py-8">
@@ -257,9 +247,6 @@
                                     <span class="text-muted font-weight-bold d-block">Business Marketer</span>
                                 </div>
                             </div>
-                        </td>
-                        <td>
-                            <span class="label label-lg label-light-warning label-inline">Pending</span>
                         </td>
                     </tr>
                 </tbody>
