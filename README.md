@@ -27,9 +27,8 @@ Project is create with:
 How to setup locally(Windows)
 
 - Download PHP 7.3 from 
-```
 https://windows.php.net/downloads/releases/php-7.3.20-nts-Win32-VC15-x64.zip
-```
+
 - Extract and place where you want the php directory to be there
 - Then set a php path to system enviroment
 - Check if php is working when run command in cmd below:
@@ -47,7 +46,7 @@ php --version
 - Save the php.ini, then check back with command
 ```
 php --version
-``
+```
 - To make sure everythin is working
 - Download Composer from
 ```
