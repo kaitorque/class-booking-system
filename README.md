@@ -49,9 +49,8 @@ php --version
 ```
 - To make sure everythin is working
 - Download Composer from
-```
 https://getcomposer.org/download/
-```
+
 - Install composer and check in using command
 ```
 composer --version
